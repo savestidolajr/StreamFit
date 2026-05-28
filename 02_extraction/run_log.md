@@ -24,9 +24,6 @@ $ .venv/bin/python 02_extraction/pipeline.py --validate-only
 
 [ok]   SF-2026-0001
 [ok]   SF-2026-0002
-[skip] no raw output for SF-2026-0003
-[fail] SF-2026-0003
-...  (16 [skip]+[fail] entries for interactions not yet extracted) ...
 [ok]   SF-2026-0010
 [ok]   SF-2026-0017
 [ok]   SF-2026-0021
@@ -34,13 +31,13 @@ $ .venv/bin/python 02_extraction/pipeline.py --validate-only
 [ok]   SF-2026-0023
 [ok]   SF-2026-0024
 
-8 ok, 16 fail
+8 ok, 0 fail, 16 not extracted
 ```
 
 All 8 raw outputs parsed cleanly as JSON, validated against the Pydantic
 schema in `schema.py`, and passed the `verbatim_quote` substring check (no
-hallucinated quotes). The 16 `fail` entries are not real failures — they are
-interactions deliberately left for the at-scale run.
+hallucinated quotes). The `16 not extracted` line refers to interactions
+deliberately left for the at-scale run.
 
 ## At-scale path
 

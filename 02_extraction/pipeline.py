@@ -231,11 +231,17 @@ def main() -> int:
         paths = sorted(INTERACTIONS_DIR.glob("SF-*.txt"))
 
     ok = 0
+    skipped = 0
     fail = 0
     for p in paths:
         if not p.exists():
             print(f"[missing] {p.name}")
             fail += 1
+            continue
+        # In validate-only mode, an interaction with no raw output isn't a
+        # failure — it just wasn't extracted yet. Skip silently.
+        if mode == "validate" and not (RAW_DIR / f"{p.stem}.txt").exists():
+            skipped += 1
             continue
         result = process(p, mode=mode)
         if result is not None:
@@ -245,7 +251,10 @@ def main() -> int:
             print(f"[fail] {p.stem}")
             fail += 1
 
-    print(f"\n{ok} ok, {fail} fail")
+    summary = f"\n{ok} ok, {fail} fail"
+    if skipped:
+        summary += f", {skipped} not extracted"
+    print(summary)
     return 0 if fail == 0 else 1
 
 
