@@ -1,0 +1,8 @@
+category,frequency,total_severity,actionable_rate
+content,7,19,1.0
+billing,5,17,0.8
+customer_service,6,17,1.0
+app_performance,3,11,1.0
+feature_gap,3,6,1.0
+pricing,2,5,1.0
+ux,1,2,1.0

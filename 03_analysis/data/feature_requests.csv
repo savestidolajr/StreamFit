@@ -1,0 +1,12 @@
+interaction_id,feature,urgency,existing_workaround,current_plan,lifecycle_stage
+SF-2026-0001,Intermediate-to-advanced strength training programmes,dealbreaker,Using FitFlow for strength workouts,premium,at_risk
+SF-2026-0010,Yin yoga library (45-60 minute classes),important,,premium,active
+SF-2026-0010,Restorative yoga and yoga nidra content,important,,premium,active
+SF-2026-0010,Structured meditation programmes (e.g. 30-day courses),important,Using Headspace,premium,active
+SF-2026-0010,"Granular class search (body focus, duration, difficulty, style)",nice_to_have,,premium,active
+SF-2026-0021,Automatic streak protection when the app crashes mid-class,important,Call support each time to manually restore,unknown,at_risk
+SF-2026-0022,Replacement HIIT content of comparable quality to Coach Daniels' series,dealbreaker,Re-doing existing Coach Daniels classes,premium,at_risk
+SF-2026-0022,Stable Samsung TV app,dealbreaker,,premium,at_risk
+SF-2026-0022,Social features and shared challenges,important,Friends use FitFlow instead,premium,at_risk
+SF-2026-0023,Cancellation propagation between account and billing systems must be reliable,dealbreaker,Customer must call repeatedly until an agent force-cancels manually,unknown,churned
+SF-2026-0024,Granular opt-out for aggregated/anonymised data contribution,important,Full account deletion (removes personalisation but heavy-handed),premium,active

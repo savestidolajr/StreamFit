@@ -1,0 +1,28 @@
+interaction_id,category,description,severity,actionable,verbatim_quote,churn_risk,current_plan,tenure_months
+SF-2026-0001,content,Catalogue feels stale; no new content perceived in last six months,high,True,I'm doing the same workouts I was doing in October.,high,premium,24.0
+SF-2026-0001,content,Strength training library is too small and only beginner level,high,True,if you're into weightlifting there's like twelve classes total. And the ones that are there are beginner level.,high,premium,24.0
+SF-2026-0001,customer_service,Prior feedback (calls and survey) appears to have been ignored,medium,True,I even filled out that survey you sent last year. Nothing changed.,high,premium,24.0
+SF-2026-0001,pricing,Perceived value drop at $29.99 given static library,medium,True,I'm basically paying thirty bucks a month for a library that doesn't change.,high,premium,24.0
+SF-2026-0002,billing,Duplicate $29.99 charge from system fault on Feb 8,critical,True,I just got charged twice this month and I need this sorted out right now.,medium,basic,8.0
+SF-2026-0002,billing,"January charge processed on wrong date, causing $35 overdraft fee",high,True,That cost me $35 in bank fees because your system charged me on the 3rd instead of the 8th.,medium,basic,8.0
+SF-2026-0002,billing,Refund timeline (3-5 business days) feels punitive against instant debit,medium,False,You took the money instantly but it takes a week to give it back?,medium,basic,8.0
+SF-2026-0002,content,Too much value is gated behind Premium versus Basic,medium,True,half the good classes are Premium-only... it's getting hard to justify.,medium,basic,8.0
+SF-2026-0010,content,Yin yoga catalogue is too small and sessions are too short,medium,True,you have almost no yin yoga content. like there are maybe 3 yin classes total.,low,premium,5.0
+SF-2026-0010,content,No restorative yoga or yoga nidra content,medium,True,theres a whole world of slower practice thats just missing from the platform,low,premium,5.0
+SF-2026-0010,ux,Search/tag filters too broad to find specific class attributes,medium,True,theres no way to filter that specifically. the tags are too broad,low,premium,5.0
+SF-2026-0017,billing,Refund promised on Feb 10 still not visible on Feb 13 (held in manual review queue),critical,True,The duplicate charge refund ($29.99) has NOT appeared in my account,high,basic,8.0
+SF-2026-0017,customer_service,Email to billing@streamfit.com received no response,high,True,I've had zero response to my email to billing@ about the $35 overdraft refund,high,basic,8.0
+SF-2026-0017,customer_service,Cumulative trust erosion from repeated billing failures,high,True,it makes me feel like I'm being taken for a ride.,high,basic,8.0
+SF-2026-0021,app_performance,Samsung TV app crashes mid-class on 2021 model (fourth time in one month),critical,True,the whole app just froze and then kicked me out.,medium,unknown,
+SF-2026-0021,app_performance,Crashes cause loss of workout streak; customer must call support to restore,high,True,Forty-two days in a row and it broke because your app crashed.,medium,unknown,
+SF-2026-0021,customer_service,Customer cannot keep calling for each crash recovery,medium,True,I can't keep,medium,unknown,
+SF-2026-0022,pricing,Premium price increase to $34.99,high,True,The price increase to $34.99 was the first one.,high,premium,24.0
+SF-2026-0022,content,Departure of flagship HIIT trainer Coach Daniels with no replacement,critical,True,"Coach Daniels left, which gutted me because his HIIT series was my primary workout.",high,premium,24.0
+SF-2026-0022,app_performance,Samsung TV app crashing during live classes,critical,True,last week the app crashed twice during live classes on my Samsung TV.,high,premium,24.0
+SF-2026-0022,feature_gap,No social/community features for shared challenges with friends,medium,True,they can see each other's workout streaks and compete. Does StreamFit have anything like that?,high,premium,24.0
+SF-2026-0022,content,Perception that the platform is going backwards,high,True,"It feels like the platform is going backwards, not forwards.",high,premium,24.0
+SF-2026-0023,billing,Cancellation request never propagated from account system to billing system; charged twice post-cancellation,critical,True,I've been charged $29.99 in January AND February. That's sixty dollars taken from my account after I cancelled.,none,unknown,
+SF-2026-0023,customer_service,Two prior support contacts noted refund but never executed it,critical,True,"Both times I was told ""it'll be sorted"" and both times nothing happened.",none,unknown,
+SF-2026-0023,customer_service,Cumulative trust destroyed; will not recommend,high,True,this has completely destroyed my trust. I would never recommend you to anyone based on this.,none,unknown,
+SF-2026-0024,feature_gap,No opt-out for aggregated/anonymised data contribution to general AI model,medium,True,I'd prefer to opt out entirely. Is that possible?,low,premium,
+SF-2026-0024,feature_gap,Privacy controls perceived as not keeping pace with industry expectations,medium,True,people are getting very nervous about where their data ends up.,low,premium,
