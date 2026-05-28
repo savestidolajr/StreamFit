@@ -1,0 +1,43 @@
+INTERACTION ID: SF-2026-0010
+DATE: 2026-02-12
+DURATION: 07:21
+CHANNEL: Live Chat
+AGENT: James Okonkwo
+
+---
+
+[14:22:08] Customer: hey, just wanted to say i actually really love the platform. been using it for about 5 months now. but i have a feature request
+
+[14:22:31] Agent: Hi! That's great to hear, thanks for the kind words. What's the feature request?
+
+[14:22:48] Customer: so im really into yoga, like i do it 5x a week. your yoga library is honestly the best ive found anywhere. but you have almost no yin yoga content. like there are maybe 3 yin classes total. everything is either vinyasa or power yoga
+
+[14:23:15] Agent: That's a fair point. We do lean heavily toward the more dynamic yoga styles. Can you tell me more about what you'd want? Length, difficulty, that kind of thing?
+
+[14:23:38] Customer: ideally longer sessions, like 45-60 mins. yin is supposed to be slow and held. the 3 classes you have are all 20 mins which barely scratches the surface. id also love some restorative yoga and yoga nidra. theres a whole world of slower practice thats just missing from the platform
+
+[14:24:05] Agent: That's really detailed feedback, thank you. I'm going to log this as a content request. You're not the first person to ask for this — yin and restorative yoga have been requested quite a few times.
+
+[14:24:28] Customer: glad im not alone haha. also while im here, have you guys ever thought about adding meditation journeys? like not just one-off 10 min meditations but actual programmes? like a 30 day meditation course?
+
+[14:24:55] Agent: We actually have something like that in development. I can't share specifics yet but structured programmes (not just single classes) are something the content team is actively working on.
+
+[14:25:12] Customer: oh cool! id literally pay more for that. right now im using headspace for meditation alongside streamfit for yoga. if you combined both id happily cancel headspace
+
+[14:25:35] Agent: That's great to know. What do you currently pay for Headspace, if you don't mind sharing?
+
+[14:25:48] Customer: $12.99 a month. so between that and my streamfit premium at $29.99, im paying about $43/month for fitness and meditation. if streamfit could do both properly id pay $35-40 happily
+
+[14:26:10] Agent: That's really valuable market intel, thank you. I'm logging all of this. Is there anything else about the platform that could be improved?
+
+[14:26:28] Customer: honestly the only other thing is the search. its hard to find specific classes sometimes. like if i want a 30 min intermediate vinyasa flow focused on hip openers, theres no way to filter that specifically. the tags are too broad
+
+[14:26:55] Agent: Noted. So more granular class filtering and search — specific body focus, duration, difficulty, style. That's come up before too.
+
+[14:27:12] Customer: exactly. other than that honestly great platform. coach layla is amazing, the production quality is top notch, and the new pilates content thats been added recently is solid
+
+[14:27:35] Agent: I'll pass the Coach Layla love on to the team, she'll appreciate it! Thanks for all this feedback. Anything else I can help with?
+
+[14:27:48] Customer: nah thats it. just keep making it better!
+
+[14:27:55] Agent: That's the plan. Thanks for being a member and for the thoughtful feedback. Have a great day!

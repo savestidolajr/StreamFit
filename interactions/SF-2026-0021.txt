@@ -1,0 +1,42 @@
+INTERACTION ID: SF-2026-0021
+DATE: 2026-02-15
+DURATION: 02:38
+CHANNEL: Phone
+AGENT: James Okonkwo
+NOTE: Poor audio quality — call recorded from noisy environment
+
+---
+
+[00:00:03] Agent: StreamFit support, James speaking.
+
+[00:00:06] Customer: Yeah hi — [background noise, sounds like traffic] — I'm calling because the app crashed in the middle of a live class and I lost my streak.
+
+[00:00:14] Agent: Sorry to hear that. Which class were you in?
+
+[00:00:17] Customer: The 7 AM HIIT with — [inaudible] — I was twenty minutes in and the whole app just froze and then kicked me out. By the time I got back in the class was over.
+
+[00:00:28] Agent: That's frustrating. What device were you on?
+
+[00:00:31] Customer: Samsung TV. The — [inaudible] — the 2021 one. And this isn't the first time. It's crashed — I think this is the fourth time in the last — [background noise] — month?
+
+[00:00:44] Agent: Yeah, we have a known issue with Samsung TV apps that's being worked on. I'm sorry you've been hit multiple times. Can I ask about the streak — how long was it?
+
+[00:00:54] Customer: Forty-two days. Forty-two days in a row and it broke because your app crashed. Not because I skipped. Can you manually restore it?
+
+[00:01:04] Agent: Let me check. [pause] Yes, I can see you completed a class every day for the past 42 days, and today's class shows as "started" but not "completed" due to the crash. I can mark it as completed manually, which will restore your streak.
+
+[00:01:20] Customer: OK good. Do that please.
+
+[00:01:23] Agent: Done. Your streak is back to 43 days now — including today. And I've added your device to the Samsung TV crash report with a note that it's a repeat issue.
+
+[00:01:34] Customer: Thanks. But seriously, when is this going to be fixed? I can't keep — [inaudible] — calling every time the app crashes.
+
+[00:01:43] Agent: The engineering team has a fix targeted for — [audio cuts] — mid-March. I know that's still a few weeks out. In the meantime, if the crash happens again, you can call us and we'll restore the streak immediately.
+
+[00:01:55] Customer: Mid-March. Alright. If it crashes again before then I'm just going to — [inaudible] — use my phone and cast it. It's annoying but at least it works.
+
+[00:02:05] Agent: Casting is definitely more stable right now. Sorry again for the trouble.
+
+[00:02:10] Customer: [background noise] — it's fine. Just fix it. Bye.
+
+[00:02:14] Agent: Will do. Have a good day.

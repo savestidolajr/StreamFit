@@ -1,0 +1,57 @@
+INTERACTION ID: SF-2026-0014
+DATE: 2026-02-13
+DURATION: 08:28
+CHANNEL: Phone
+AGENT: Rachel Torres
+
+---
+
+[00:00:03] Agent: StreamFit customer care, Rachel here.
+
+[00:00:06] Customer: Yeah, hi. I just got charged $239.88 on my credit card from StreamFit. That's not right.
+
+[00:00:14] Agent: Let me look into that immediately. What's your account email?
+
+[00:00:18] Customer: tom.nguyen@email.com
+
+[00:00:24] Agent: OK Tom, I've pulled up your account. I can see the charge. It looks like your subscription was set to annual billing at $199.00, which works out to about $16.58 per month billed as a lump sum.
+
+[00:00:38] Customer: I never agreed to annual billing. I've been paying month to month since I signed up.
+
+[00:00:44] Agent: Let me check the billing history. [pause] OK, so I can see that on January 28th, there was a plan change on your account from monthly Basic to annual Basic. It looks like it was done through the app.
+
+[00:00:59] Customer: I didn't do that. My wife uses the account sometimes — is it possible she changed it by accident?
+
+[00:01:06] Agent: It's possible. The plan change screen in the app does highlight the annual option as "Save 17%" and the button is quite prominent. It's... easy to tap by mistake if you're browsing the account settings.
+
+[00:01:20] Customer: So your app is designed to make people accidentally switch to annual billing? That's not great.
+
+[00:01:27] Agent: I understand the concern. Regardless of how it happened, let me fix this for you. I can reverse the annual charge, switch you back to monthly, and charge just the monthly rate of $19.99. The difference of $179.01 will be refunded.
+
+[00:01:45] Customer: How long will the refund take?
+
+[00:01:47] Agent: 3-5 business days for it to appear in your account.
+
+[00:01:51] Customer: That's a hundred and eighty dollars sitting in limbo for a week. I had plans for that money.
+
+[00:01:57] Agent: I completely understand. Unfortunately we can't speed up the bank processing, but I'll flag this as priority. And I want to confirm — the refund of $179.01 will be processed within the hour on our end.
+
+[00:02:10] Customer: Fine. And please, change the UI so that people can't accidentally switch to annual. At minimum, add a confirmation step. A two-hundred-dollar accidental charge is a big deal for most people.
+
+[00:02:24] Agent: That's excellent feedback and you're right — a confirmation step would prevent this. I'll escalate it to the product team.
+
+[00:02:33] Customer: OK. And while I've got you — I've been meaning to ask. Is there a way to see a detailed breakdown of what I've been charged each month? Like a billing history page? I couldn't find one in the app.
+
+[00:02:46] Agent: There isn't currently a billing history view in the app. Your charges are recorded in your account but you'd need to contact us to get a statement. I know that's not ideal.
+
+[00:02:58] Customer: So I can't even see my own billing history? On a recurring subscription? That's pretty basic functionality.
+
+[00:03:06] Agent: You're right, it should be there. That's another piece of feedback I'll pass on. For now, I can email you a complete billing history if that would help?
+
+[00:03:16] Customer: Yeah, send it to my email. And sort out the refund.
+
+[00:03:20] Agent: Will do. Refund of $179.01 processing now, billing history email coming within the hour, and your plan is back to monthly Basic at $19.99 per month.
+
+[00:03:32] Customer: Alright. Thanks Rachel.
+
+[00:03:34] Agent: Sorry for the hassle, Tom. Have a good day.

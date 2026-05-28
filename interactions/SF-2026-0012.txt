@@ -1,0 +1,46 @@
+INTERACTION ID: SF-2026-0012
+DATE: 2026-02-12
+DURATION: 06:55
+CHANNEL: Live Chat
+AGENT: James Okonkwo
+
+---
+
+[09:33:12] Customer: hi i keep getting buffering on my ipad when trying to do live classes. on demand is fine but live classes buffer every 30 seconds or so
+
+[09:33:35] Agent: Hi! Sorry about that. A few quick questions — what iPad model do you have and what iOS version?
+
+[09:33:52] Customer: ipad air 3rd gen, ios 16.something. its not the newest but its not ancient either
+
+[09:34:08] Agent: That should handle live streaming fine. Are you on wifi or mobile data when this happens?
+
+[09:34:22] Customer: wifi. and my internet is 100mbps so its not a speed issue. netflix and youtube work perfectly
+
+[09:34:40] Agent: Got it. There's a known issue with live class streaming on some iPad models where the app doesn't properly adapt to network conditions. The stream tries to load at full 1080p and doesn't step down when it should.
+
+[09:35:02] Customer: so its a bug in the app?
+
+[09:35:10] Agent: Yes, essentially. Our engineering team is aware and it's being addressed in the next update. In the meantime, you can try:
+1. Force close the app and reopen before joining a live class
+2. Turn off "HD Live Streaming" in Settings > Playback (this locks it to 720p which should eliminate buffering)
+3. Join the live class 1-2 minutes before it starts rather than right at the start time — this gives the stream time to stabilize
+
+[09:35:52] Customer: ill try the 720p thing. but honestly this is pretty frustrating. im paying for premium specifically for the live classes and they dont work properly on my device
+
+[09:36:12] Agent: I totally understand the frustration, especially since live classes are a key Premium feature. If you'd like, I can apply a $10 credit to your next bill as an acknowledgment that the feature hasn't been working as expected.
+
+[09:36:32] Customer: that would be fair yeah
+
+[09:36:40] Agent: Done. You'll see $19.99 instead of $29.99 on your next bill. And I've flagged your device details (iPad Air 3rd gen, iOS 16) in the engineering ticket.
+
+[09:36:58] Customer: thanks. one more thing - the on demand classes are great but i noticed some of the older ones have really bad audio. like the music is way louder than the instructor. is there a way to adjust that?
+
+[09:37:20] Agent: Unfortunately there's no separate audio mix control in the app — the music and instructor levels are baked into the recording. We've been adding a "voice boost" option to newer content but the older library hasn't been remastered yet. Which classes specifically have this issue?
+
+[09:37:48] Customer: most of the strength classes from 2024. the ones with coach daniels are ok but the ones with the other guy, um, coach mike? those are really hard to hear
+
+[09:38:05] Agent: I'll log that specific feedback. Coach Mike's 2024 strength catalogue — audio balance issues. The team should know about specific content that's affected.
+
+[09:38:22] Customer: cool, thanks james. appreciate the help
+
+[09:38:28] Agent: No problem! Hope the 720p setting helps with live classes. Have a great workout today.

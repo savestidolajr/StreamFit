@@ -1,0 +1,67 @@
+INTERACTION ID: SF-2026-0020
+DATE: 2026-02-14
+DURATION: 12:18
+CHANNEL: Phone
+AGENT: Marcus Chen
+
+---
+
+[00:00:03] Agent: StreamFit, Marcus here.
+
+[00:00:06] Customer: Hi, I've been looking at fitness apps and I'm trying to decide between you guys, FitFlow, and Apple Fitness+. Can you walk me through what makes StreamFit worth it?
+
+[00:00:18] Agent: Of course! What kind of workouts are you mainly interested in?
+
+[00:00:22] Customer: A bit of everything, honestly. I'm a 28-year-old guy, reasonably fit, been going to the gym for a few years. I want something for the days I can't make it to the gym — so home workouts, mostly bodyweight and dumbbell stuff, plus some cardio. And I've been wanting to get into yoga.
+
+[00:00:42] Agent: Great. So across those three platforms, here's how I'd break it down honestly. StreamFit has probably the deepest yoga catalogue of the three — that's a genuine strength. Our strength training content is solid for home workouts. Apple Fitness+ integrates tightly with Apple Watch if you have one. And FitFlow is the cheapest at $14.99.
+
+[00:01:05] Customer: I appreciate the honesty. What does StreamFit have that the others don't?
+
+[00:01:10] Agent: Two things that are genuinely differentiating. First, the AI workout planner — it builds personalised weekly programmes based on your goals and adapts over time. Neither Apple nor FitFlow have anything equivalent. Second, our trainer roster. Coach Layla's yoga progressions are best-in-class, and we've got a strong HIIT library — Coach Daniels' series is still on the platform and very popular, though he's recently moved on. We've got a new Intensity Series launching in March to fill that gap. People stay for the trainers.
+
+[00:01:35] Customer: I've heard of Coach Daniels actually. My coworker talks about him. What does the AI planner actually do though? Like, give me a real example.
+
+[00:01:45] Agent: Sure. So you'd set up your profile — say you want to work out 4 times a week, 30-45 minutes, goals are strength and flexibility. The planner would create a weekly schedule, something like: Monday 35-min dumbbell strength, Tuesday rest, Wednesday 40-min yoga flow, Thursday 30-min HIIT, Friday rest, Saturday 45-min full body, Sunday optional recovery session.
+
+[00:02:12] Customer: And it changes week to week?
+
+[00:02:15] Agent: Yes, it progresses. Week 1 might be foundational, week 2 increases intensity, and it adapts based on which classes you actually complete. If you skip a day, it adjusts rather than just moving everything forward.
+
+[00:02:29] Customer: That's actually cool. OK, pricing. What's the difference between Basic and Premium?
+
+[00:02:35] Agent: Basic is $19.99 — full on-demand library access. Premium is $29.99 — adds live classes, offline downloads, and the AI planner. There's also Family at $39.99 for up to four people.
+
+[00:02:48] Customer: So the AI planner is Premium only. And that's pretty much the main feature that differentiates you. But it's $29.99 versus FitFlow at $14.99. That's double.
+
+[00:02:59] Agent: It is. The question is whether the AI planner, trainer quality, and content depth are worth the premium. For someone like you who wants structured programming rather than random browsing, I genuinely think it is. But I'd suggest trying the free trial and seeing for yourself.
+
+[00:03:15] Customer: How long is the trial?
+
+[00:03:17] Agent: 14 days, and it includes Premium features so you can test the AI planner.
+
+[00:03:23] Customer: Does it auto-charge after 14 days?
+
+[00:03:26] Agent: It does convert to a paid Premium subscription unless you change or cancel before the trial ends. You'll get a reminder email two days before.
+
+[00:03:35] Customer: I've been burned by that before with other apps. Can you guarantee I won't be charged if I cancel on day 13?
+
+[00:03:42] Agent: Absolutely. If you cancel anytime during the 14 days, you won't be charged a cent. You can also switch to Basic during the trial if you decide you don't need Premium features.
+
+[00:03:53] Customer: OK. I'm also looking at the hardware angle. I have an Android phone, a Chromecast, and a Lenovo tablet. Does StreamFit work well on all of those?
+
+[00:04:03] Agent: Android phone and Chromecast — excellent, those are well-supported. The tablet depends on the model — we've had some performance reports on older Android tablets. What model is the Lenovo?
+
+[00:04:16] Customer: It's the Tab M10 Plus, fairly recent.
+
+[00:04:20] Agent: That should be fine. The known issues are mainly with Samsung TVs and older iPads, not Lenovo tablets.
+
+[00:04:28] Customer: Alright. Let me try the 14-day trial. If the AI planner is as good as you say, I'll probably go Premium. If not, I might just do Basic or go with FitFlow.
+
+[00:04:40] Agent: Fair enough. Would you like to sign up over the phone or through the app?
+
+[00:04:44] Customer: I'll do it through the app. Just wanted the information first. Thanks Marcus, you've been really helpful. Not pushy at all, which I appreciate.
+
+[00:04:53] Agent: That's the goal! Enjoy the trial and feel free to call back if you have any questions.
+
+[00:04:58] Customer: Will do. Cheers.

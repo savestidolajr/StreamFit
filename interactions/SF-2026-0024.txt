@@ -1,0 +1,65 @@
+INTERACTION ID: SF-2026-0024
+DATE: 2026-02-15
+DURATION: 10:48
+CHANNEL: Phone
+AGENT: Rachel Torres
+
+---
+
+[00:00:03] Agent: StreamFit, Rachel here.
+
+[00:00:06] Customer: Hi. I have some questions about data privacy. I read an article about fitness apps selling user data and I want to know exactly what StreamFit does with my information.
+
+[00:00:18] Agent: That's a really important question. I can walk you through our data practices. What specifically are you concerned about?
+
+[00:00:25] Customer: A few things. First — do you sell my data to third parties? Like, my workout habits, my health information, any of that?
+
+[00:00:34] Agent: No. StreamFit does not sell any personal data to third parties. Full stop. We don't sell workout data, health metrics, personal information, or any derived analytics about individual users.
+
+[00:00:47] Customer: What about sharing data with partners? Not selling, but sharing?
+
+[00:00:52] Agent: We share data with third-party service providers who help us operate the platform — things like our cloud hosting provider, our payment processor, and our email service. But these providers are contractually obligated to only use the data for providing their service to us. They can't use it for their own purposes.
+
+[00:01:10] Customer: Who's your cloud hosting provider?
+
+[00:01:13] Agent: We use AWS — Amazon Web Services. Our data is stored in the Sydney region for Australian users.
+
+[00:01:20] Customer: OK. And what data do you actually collect about me?
+
+[00:01:24] Agent: At the account level: your name, email, payment information, and any profile details you've provided like age and fitness goals. For platform usage: which classes you take, your workout schedule, your AI planner preferences, and device information. If you use the heart rate integration, we receive heart rate data during workouts.
+
+[00:01:47] Customer: And can I delete all of that?
+
+[00:01:50] Agent: Yes. Under the Australian Privacy Act and GDPR — if applicable — you have the right to request deletion of all your personal data. You can do this through the app under Settings > Privacy > Request Data Deletion, or by contacting us. We process deletion requests within 30 days.
+
+[00:02:08] Customer: What about data that's already been fed into your AI systems? If my workout data has been used to train the AI planner, can that be "untrained"?
+
+[00:02:19] Agent: Great question. The AI workout planner uses your personal data only for your personalised recommendations — it's a per-user model, not a collective training system. When you delete your data, your personalisation model is deleted with it. However, we do use anonymised, aggregated data across all users to improve the general AI model — things like "users who do HIIT 3x/week tend to prefer 30-minute sessions." That aggregated data doesn't contain any personal identifiers and can't be traced back to you.
+
+[00:02:50] Customer: Hmm. I'm not entirely comfortable with the aggregated data part. Even if it's anonymised, I'd prefer to opt out entirely. Is that possible?
+
+[00:02:59] Agent: Currently, there isn't an opt-out specifically for aggregated data contribution. But I'll log that as a feature request. I know data privacy controls are increasingly important to users and this kind of granular opt-out is something the industry is moving toward.
+
+[00:03:16] Customer: You should move faster on that. Especially with the AI hype — people are getting very nervous about where their data ends up. I work in cybersecurity so this isn't just casual concern for me.
+
+[00:03:28] Agent: That's a perspective we take seriously. Can I ask — aside from the privacy concerns, are you happy with the platform itself?
+
+[00:03:36] Customer: Actually, yes. I'm on Premium and I use it almost daily. My wife uses it too — we're on separate accounts. The content is great, the app works well. My only concern is the data practices. If I find out you're doing anything shady with user data, I'll cancel both accounts and write about it publicly. I have a security blog with about 20,000 subscribers.
+
+[00:03:58] Agent: I appreciate the transparency, and I'd encourage you to review our privacy policy in detail — it's available at streamfit.com/privacy. We also publish a transparency report annually. The most recent one covers all data requests we've received and how we handled them.
+
+[00:04:15] Customer: I'll read those. Can you also send me a data export? I want to see exactly what you have on me.
+
+[00:04:22] Agent: Absolutely. You can request a data export through Settings > Privacy > Download My Data. It generates a JSON file with all personal data we hold, including workout history, profile data, and device logs. It typically takes 24-48 hours to compile.
+
+[00:04:38] Customer: JSON format. Good. That's actually better than most apps I've audited. Most give you a useless PDF.
+
+[00:04:46] Agent: We figured our users would appreciate a machine-readable format. Is there anything else I can help with?
+
+[00:04:52] Customer: No, that covers it. You've been thorough, Rachel. I'm cautiously satisfied. I'll review the privacy policy and transparency report and if anything concerns me, I'll be back.
+
+[00:05:03] Agent: You're welcome to reach out anytime. We take privacy very seriously and we'd rather answer tough questions than have users leave over uncertainty.
+
+[00:05:13] Customer: Good attitude. Thanks Rachel.
+
+[00:05:16] Agent: Thank you. Have a good day.

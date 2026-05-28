@@ -1,0 +1,45 @@
+INTERACTION ID: SF-2026-0013
+DATE: 2026-02-13
+DURATION: 07:12
+CHANNEL: Phone
+AGENT: Marcus Chen
+
+---
+
+[00:00:03] Agent: StreamFit, Marcus speaking.
+
+[00:00:06] Customer: Hey Marcus. So I'm on the Basic plan and I travel a lot for work. I keep wanting to download classes to do in hotels but obviously that's a Premium feature. I'm trying to decide if it's worth upgrading.
+
+[00:00:20] Agent: Great question. How often do you travel?
+
+[00:00:23] Customer: Usually two or three trips a month, sometimes a week at a time. Hotel wifi is always terrible so streaming doesn't really work. I end up just not working out when I travel, which is like half the month.
+
+[00:00:38] Agent: Yeah, that's a really common use case for the offline downloads. With Premium at $29.99, you can download up to 25 classes at a time. They stay available offline for 30 days. Most people download their week's worth of workouts before they leave and they're set.
+
+[00:00:55] Customer: Can I download the really long classes? Like the 60-minute ones?
+
+[00:00:59] Agent: Yes, any class regardless of length. A typical 45-minute class is about 400MB, so a week's worth — say five classes — would be about 2GB on your device.
+
+[00:01:11] Customer: That's fine. And the AI planner thing — does that work offline too?
+
+[00:01:16] Agent: The plan itself syncs when you're online, so before your trip you'd sync your weekly plan and download the recommended classes. During the trip, you follow the plan offline. When you reconnect, your workout data syncs back.
+
+[00:01:31] Customer: Smart. What about live classes? I see that's also Premium.
+
+[00:01:36] Agent: Yes, live classes are Premium. But honestly, if your main use case is travel, the offline downloads are going to be the biggest value-add for you. The live classes are on a set schedule and you'd need reliable internet, which sounds like it doesn't work in your hotel situation.
+
+[00:01:52] Customer: Fair point. OK, one more thing — I also use Spotify during workouts. If I download a class for offline, can I play my own music over it?
+
+[00:02:02] Agent: You can mute the in-class music through the app settings and play Spotify separately. The instructor audio will still come through. It's not a seamless integration but most people who prefer their own music do it that way.
+
+[00:02:17] Customer: Decent enough. Alright, let's do the upgrade.
+
+[00:02:21] Agent: Great choice. I'll switch you from Basic to Premium now. You'll be charged the prorated difference for the rest of this billing cycle, and then $29.99 from your next billing date. The offline download feature will be available immediately.
+
+[00:02:36] Customer: Perfect. I'm actually flying to Brisbane on Sunday so good timing.
+
+[00:02:41] Agent: Download those classes before you go! Anything else I can help with?
+
+[00:02:45] Customer: No, that's great. Thanks Marcus.
+
+[00:02:48] Agent: Safe travels, enjoy the workouts. Bye!

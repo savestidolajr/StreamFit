@@ -1,0 +1,59 @@
+INTERACTION ID: SF-2026-0011
+DATE: 2026-02-12
+DURATION: 09:08
+CHANNEL: Phone
+AGENT: Rachel Torres
+
+---
+
+[00:00:03] Agent: StreamFit, Rachel speaking. How can I help today?
+
+[00:00:07] Customer: Hi. Um, yeah, I want to cancel my subscription. But I feel kind of bad about it because the platform is actually really good.
+
+[00:00:16] Agent: No need to feel bad at all! Can you tell me what's going on?
+
+[00:00:21] Customer: Honestly? I just don't use it enough to justify paying for it. I signed up in August with all these big plans — work out five times a week, get in shape, the whole thing. And I was really into it for the first two months. But then work got crazy and I just... stopped.
+
+[00:00:40] Agent: That happens more than you'd think. When was the last time you used the app?
+
+[00:00:45] Customer: Um, probably late November? Maybe early December? It's been a while.
+
+[00:00:52] Agent: So about two and a half months. And you've been paying $29.99 each month during that time — the Premium plan.
+
+[00:00:59] Customer: Yeah, and I know that's my fault for not cancelling sooner. I just kept thinking "I'll get back into it next week" and then I never did.
+
+[00:01:09] Agent: Completely understandable. Before I process the cancellation, can I suggest a couple of options? One is pausing your subscription — you can pause for up to three months, no charge, and your account stays intact so if you do get the motivation back, everything's right where you left it.
+
+[00:01:27] Customer: What happens after the three months?
+
+[00:01:30] Agent: If you don't unpause, it cancels automatically. So there's zero risk of being charged again without you actively choosing to restart.
+
+[00:01:38] Customer: Hmm. That's not bad actually. The thing is... I know myself. If I pause it, I'm going to forget about it and it'll just cancel anyway. Can I be honest?
+
+[00:01:49] Agent: Of course.
+
+[00:01:51] Customer: I think the problem is accountability. When I was going to a physical gym, I had a buddy who'd text me if I didn't show up. With an app, nobody notices if you disappear. Does StreamFit have anything like that? Like, reminders or check-ins or something?
+
+[00:02:10] Agent: We do have push notification reminders that you can configure — like "reminder to work out at 6am" — but I'll be honest, it's pretty basic. We don't have anything like an accountability partner or social check-in feature.
+
+[00:02:25] Customer: Yeah, that's kind of what I figured. FitFlow apparently has a thing where you can pair up with a friend and see each other's streaks. I might try that.
+
+[00:02:36] Agent: I've heard about that feature. We don't have it yet, but it's something that's been discussed internally. The AI workout planner does send you weekly check-ins based on your goals — did you ever try that?
+
+[00:02:49] Customer: No, I didn't know about that. I mainly just browsed the library and picked random classes.
+
+[00:02:55] Agent: That might be part of the issue. Random browsing can feel overwhelming. The AI planner gives you a structured weekly programme so you don't have to make decisions — you just open the app and do what it says. Would you be willing to try that during a pause period?
+
+[00:03:12] Customer: You know what, let's try the pause. But set it for one month, not three. If the AI planner thing doesn't get me back into it within a month, I'll know it's time to cancel for real.
+
+[00:03:25] Agent: That's a great approach. I've paused your account for one month starting today. You won't be charged during this period. Your next billing date would be March 12th, and I'll make sure the AI workout planner is activated and configured for your goals. What are you aiming for fitness-wise?
+
+[00:03:43] Customer: I just want to move more. Like, 3-4 times a week for 30 minutes. Nothing crazy. I'm a 38-year-old desk worker, I'm not training for a marathon.
+
+[00:03:55] Agent: Perfect, I'll set the planner to a moderate programme — 3 sessions per week, 30 minutes each, mixed format. You'll get your first plan emailed to you tomorrow with a "welcome back" outline.
+
+[00:04:07] Customer: OK, that actually sounds nice. Thanks Rachel.
+
+[00:04:10] Agent: You're welcome! I really hope this works. And hey — even if it doesn't, no hard feelings. We want you to use what works for you.
+
+[00:04:18] Customer: Appreciate that. Bye.

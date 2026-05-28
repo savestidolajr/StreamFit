@@ -1,0 +1,121 @@
+{
+  "$schema": "Target output schema — one object per interaction",
+  "_notes": "Not every field will be extractable from every interaction. Use null for fields that cannot be reliably determined. Arrays can be empty if nothing applies. The schema represents the ideal production output.",
+
+  "interaction_id": "string — matches the filename (e.g. SF-2026-0001)",
+
+  "interaction": {
+    "type": "enum: sales_inquiry | support_request | cancellation | upgrade_inquiry | general_inquiry | complaint | win_back",
+    "channel": "enum: phone | live_chat | email",
+    "duration_seconds": "integer | null — extract from interaction metadata if available",
+    "agent": {
+      "name": "string",
+      "handled_well": "boolean — did the agent handle the interaction effectively?",
+      "notable_actions": "string | null — anything the agent did particularly well or poorly"
+    },
+    "resolution": {
+      "status": "enum: resolved | partially_resolved | unresolved | escalated | cancelled",
+      "summary": "string — one-sentence summary of the outcome"
+    }
+  },
+
+  "customer": {
+    "name": "string | null",
+    "tenure_months": "integer | null — infer from conversation if mentioned",
+    "current_plan": "enum: free_trial | basic | premium | family | enterprise | unknown",
+    "lifecycle_stage": "enum: new | onboarding | active | at_risk | churning | churned | win_back",
+    "demographic_signals": {
+      "age_range": "enum: 18-25 | 26-35 | 36-45 | 46-55 | 55+ | unknown",
+      "household": "string | null — e.g. 'family with kids', 'lives alone', 'couple'",
+      "fitness_level": "enum: beginner | intermediate | advanced | unknown"
+    }
+  },
+
+  "sentiment": {
+    "overall": "enum: very_negative | negative | mixed | neutral | positive | very_positive",
+    "trajectory": "enum: improving | stable | declining — how sentiment changed during the interaction",
+    "emotional_intensity": "enum: low | moderate | high — how strongly the customer expressed emotion",
+    "key_moments": [
+      {
+        "timestamp": "string | null — approximate time in interaction (format varies: phone uses elapsed time like 00:02:18, chat uses wall-clock time like 14:22:08)",
+        "description": "string — what happened",
+        "sentiment_shift": "enum: positive_spike | negative_spike | turning_point",
+        "trigger": "string — what caused the shift"
+      }
+    ]
+  },
+
+  "insights": {
+    "pain_points": [
+      {
+        "category": "string — e.g. 'billing', 'content', 'app_performance', 'pricing', 'customer_service'",
+        "description": "string — specific issue described",
+        "severity": "enum: low | medium | high | critical",
+        "verbatim_quote": "string — direct quote from the customer",
+        "actionable": "boolean — is this something the company can realistically fix?"
+      }
+    ],
+    "motivations": [
+      {
+        "type": "string — e.g. 'health_goals', 'convenience', 'value_for_money', 'social', 'specific_content'",
+        "description": "string",
+        "strength": "enum: weak | moderate | strong"
+      }
+    ],
+    "competitor_mentions": [
+      {
+        "name": "string — competitor name",
+        "context": "enum: currently_using | considering | switched_to | switched_from | comparing",
+        "sentiment_vs_us": "enum: competitor_preferred | neutral | we_preferred",
+        "detail": "string — what specifically was compared or mentioned"
+      }
+    ],
+    "feature_requests": [
+      {
+        "feature": "string — what the customer wants",
+        "urgency": "enum: nice_to_have | important | dealbreaker",
+        "existing_workaround": "string | null"
+      }
+    ]
+  },
+
+  "intent": {
+    "primary": "string — the main reason for the interaction",
+    "secondary": "string | null — any secondary purpose",
+    "churn_risk": {
+      "level": "enum: none | low | medium | high | immediate",
+      "factors": ["string — list of contributing factors"],
+      "save_attempted": "boolean",
+      "save_successful": "boolean | null"
+    },
+    "upsell_opportunity": {
+      "level": "enum: none | low | medium | high",
+      "target_plan": "string | null — what plan/feature they might upgrade to",
+      "signals": ["string — what suggests they might upgrade"]
+    }
+  },
+
+  "topics": [
+    {
+      "topic": "string",
+      "relevance": "enum: primary | secondary | mentioned",
+      "sentiment": "enum: positive | negative | neutral"
+    }
+  ],
+
+  "action_items": [
+    {
+      "action": "string — what needs to happen",
+      "owner": "enum: agent | customer | engineering | billing | product | management",
+      "priority": "enum: low | medium | high | urgent",
+      "status": "enum: completed | pending | requires_follow_up"
+    }
+  ],
+
+  "quality_flags": {
+    "interaction_quality": "enum: clean | minor_issues | significant_gaps — quality of the source interaction data",
+    "extraction_confidence": "enum: high | medium | low — how confident are you in the extracted data?",
+    "requires_human_review": "boolean",
+    "review_reasons": ["string — why human review is needed; empty array if not needed"]
+  }
+}

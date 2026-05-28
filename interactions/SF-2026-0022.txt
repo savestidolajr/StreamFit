@@ -1,0 +1,57 @@
+INTERACTION ID: SF-2026-0022
+DATE: 2026-02-15
+DURATION: 13:55
+CHANNEL: Phone
+AGENT: Sarah Mitchell
+
+---
+
+[00:00:04] Agent: StreamFit, Sarah here.
+
+[00:00:07] Customer: Hi Sarah. I've been putting this off but I need to cancel my subscription.
+
+[00:00:13] Agent: I understand. Can you tell me what's going on?
+
+[00:00:17] Customer: So I've been a member for about two years on Premium. I love the platform. But honestly, three things have stacked up. The price increase to $34.99 was the first one. Then Coach Daniels left, which gutted me because his HIIT series was my primary workout. And then last week the app crashed twice during live classes on my Samsung TV. It feels like the platform is going backwards, not forwards.
+
+[00:00:47] Agent: I hear all three of those and I understand why that combination would push you to this point. You've been an incredibly loyal member and I want to see if there's anything I can do before we process the cancellation. Can I have a few minutes?
+
+[00:01:01] Customer: I'll listen, but I'm not going to be easy to convince.
+
+[00:01:05] Agent: Fair. Let me address each concern directly. First, the price. As a two-year member, I can offer you a 12-month price lock at $29.99 — your pre-increase rate. That saves you $60 over the year compared to the new price.
+
+[00:01:22] Customer: OK, that helps. But what about the content? I've done every Coach Daniels class twice now. There's nothing left for me in the HIIT section.
+
+[00:01:32] Agent: I hear you. I can't replace Coach Daniels — he was special. But I want to share something that hasn't been announced publicly yet. We're launching a new "Intensity Series" in March with two new trainers who specifically come from competitive fitness backgrounds. One is a former CrossFit Games athlete and the other is a combat sports conditioning coach. The content is designed to fill exactly the gap Daniels left.
+
+[00:01:58] Customer: Hmm. That actually sounds decent. When in March?
+
+[00:02:03] Agent: March 15th is the launch date. So about four weeks from now.
+
+[00:02:08] Customer: And the app crashing?
+
+[00:02:10] Agent: The Samsung TV issue is being fixed in a mid-March update. I know you've experienced it multiple times and it's unacceptable. Here's what I'd like to do — I'll apply the price lock AND give you one month completely free as an apology for the technical issues. So your next billing date would skip entirely.
+
+[00:02:30] Customer: So let me get this straight. You're offering me $29.99 for 12 months instead of $34.99, plus one month free, plus there's supposedly new HIIT content launching in March?
+
+[00:02:42] Agent: That's right. I genuinely believe the next two months are going to address your two biggest concerns — content and app stability. I'm asking you to give us until April. If you're still not happy by then, I'll process the cancellation immediately with no hassle.
+
+[00:02:58] Customer: You're putting a note on my account about that? So if I call back in April and say "Sarah promised me," someone can see it?
+
+[00:03:06] Agent: Yes, I'll add a detailed note to your account right now. "Retention offer: 12-month price lock at $29.99, one free month (March billing waived), new HIIT content launch March 15th, Samsung TV fix mid-March. Customer to re-evaluate in April." Anyone who pulls up your account will see that.
+
+[00:03:25] Customer: OK. I'm going to trust you on this. Let's keep it going. But Sarah — if the new HIIT content is mediocre or the app is still crashing in April, I'm gone. And I'll go to FitFlow where three of my mates already are.
+
+[00:03:40] Agent: I think that's completely reasonable. I've applied everything: price lock, March billing waived, and the account note. You should see $0 on your March 1st billing.
+
+[00:03:52] Customer: And one more thing — the friends I mentioned on FitFlow, they keep talking about doing challenges together. Like, they can see each other's workout streaks and compete. Does StreamFit have anything like that?
+
+[00:04:05] Agent: We don't have social features yet, but they're actively in development. I can't give you a launch date, but it's a top priority for the product team.
+
+[00:04:15] Customer: Add that to the list of reasons I'll be checking in April, then. Social features, new content, fixed app. Three things.
+
+[00:04:24] Agent: Noted. All three. Thank you for giving us another chance — I mean that sincerely.
+
+[00:04:30] Customer: We'll see. Thanks Sarah.
+
+[00:04:33] Agent: Take care. Talk in April if not sooner.

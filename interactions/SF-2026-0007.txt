@@ -1,0 +1,55 @@
+INTERACTION ID: SF-2026-0007
+DATE: 2026-02-11
+DURATION: 08:03
+CHANNEL: Phone
+AGENT: Marcus Chen
+
+---
+
+[00:00:03] Agent: StreamFit support, Marcus here.
+
+[00:00:06] Customer: Hi Marcus. I'm calling because I genuinely cannot figure out what I'm being charged for. I looked at my bank statement and there's a charge from StreamFit for $29.99 but I thought I was on the Basic plan which is supposed to be $19.99?
+
+[00:00:22] Agent: Let me take a look. What's the email on your account?
+
+[00:00:26] Customer: jennifer.kwon@email.com
+
+[00:00:33] Agent: OK Jennifer, I can see your account. So you're actually on the Premium plan, not Basic.
+
+[00:00:39] Customer: What? I never signed up for Premium. I signed up through the website in, like, September and I definitely picked Basic.
+
+[00:00:49] Agent: Let me check your account history. [pause] OK, so I can see you originally signed up for a 14-day free trial on September 3rd. The trial was on the Premium tier. When the trial ended on September 17th, it auto-converted to a paid Premium subscription.
+
+[00:01:08] Customer: But I didn't choose that. I didn't click "upgrade to Premium" or anything. It just... happened?
+
+[00:01:15] Agent: The way the trial works is it defaults to the Premium plan at the end of the trial period unless you actively change it to Basic or cancel before the trial ends. There is a notification email sent two days before—
+
+[00:01:28] Customer: I don't remember getting that email. And honestly, that's a really dodgy way to do it. You give people a trial on the expensive plan and then hope they don't notice they're being overcharged? That's like a dark pattern.
+
+[00:01:43] Agent: I understand your frustration and I can see how it feels that way. I want to make this right. Let me switch you to Basic effective immediately, which will be $19.99 going forward.
+
+[00:01:54] Customer: And what about the months I've already been overcharged? That's five months of paying $10 more than I should have been. That's fifty dollars.
+
+[00:02:05] Agent: Let me see what I can do about that. [pause] I can offer you a refund for the price difference over the last three months — that would be $30. Unfortunately our policy only covers a 90-day lookback for billing adjustments.
+
+[00:02:22] Customer: So I'm still out twenty bucks because your system defaulted me into a more expensive plan without my knowledge?
+
+[00:02:30] Agent: I hear you. Let me escalate this to see if we can cover the full five months. Can I put you on a brief hold?
+
+[00:02:37] Customer: Fine.
+
+[00:02:38] [HOLD - 2 minutes 14 seconds]
+
+[00:04:52] Agent: Jennifer, thanks for waiting. I've spoken with my supervisor and we're going to refund the full $50 difference across all five months. You'll see it within 3-5 business days.
+
+[00:05:03] Customer: OK, thank you. I appreciate you escalating that. But seriously, you need to change how the trial works. Don't default people into the most expensive plan. It feels scammy even if it's not intentional.
+
+[00:05:17] Agent: That's completely valid feedback and I'm going to document it. Your account has been switched to Basic now — $19.99 per month going forward. And the $50 refund is processing.
+
+[00:05:30] Customer: And just to check — the Basic plan has the on-demand classes? I mainly do yoga and the occasional pilates class. I don't need live classes or the AI thing.
+
+[00:05:40] Agent: Yes, Basic gives you full access to the entire on-demand library. Yoga, pilates, everything. The features exclusive to Premium are live classes, offline downloads, and the AI workout planner.
+
+[00:05:52] Customer: Yeah I don't need any of that. Basic is fine. Thank you for sorting it out Marcus.
+
+[00:05:57] Agent: You're welcome, Jennifer. Sorry for the confusion and I hope we've restored some trust. Have a good day.

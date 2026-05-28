@@ -1,0 +1,62 @@
+INTERACTION ID: SF-2026-0017
+DATE: 2026-02-14
+CHANNEL: Email
+AGENT: Marcus Chen
+
+---
+
+From: david.wright@email.com
+To: support@streamfit.com
+Date: 2026-02-13 18:42
+Subject: Still waiting on refund — second email about this
+
+Hi,
+
+I'm writing again because the refund I was promised still hasn't appeared in my account.
+
+Quick recap: I called on February 10th about being double-charged $59.98 (two charges of $29.99 on Feb 8th). The agent I spoke to (Marcus, I think) said the duplicate $29.99 would be refunded within 3-5 business days and that I should also email billing@streamfit.com with proof of my January overdraft fee ($35) caused by your system charging me on the wrong date.
+
+I sent that email with the bank statement screenshot on February 10th — the same day I called. It is now February 13th. That's 3 business days and:
+
+1. The duplicate charge refund ($29.99) has NOT appeared in my account
+2. I've had zero response to my email to billing@ about the $35 overdraft refund
+3. I'm now genuinely questioning whether any of this is going to be resolved
+
+I've been on your Basic plan for 8 months. I don't ask for much. But when your system double-charges me AND causes an overdraft, and then the promised fix doesn't materialize, it makes me feel like I'm being taken for a ride.
+
+What I need:
+- Confirmation that the $29.99 refund has actually been processed (with a transaction reference)
+- A response about the $35 overdraft refund that was promised
+- Some assurance that the billing system has actually been fixed so this doesn't happen again next month
+
+If this isn't resolved by end of week I'll be filing a chargeback with my bank and cancelling the subscription.
+
+Regards,
+David Wright
+
+---
+
+From: marcus.chen@streamfit.com
+To: david.wright@email.com
+Date: 2026-02-14 09:15
+Subject: RE: Still waiting on refund — second email about this
+
+Hi David,
+
+I'm really sorry this hasn't been resolved yet. I've looked into your account and I can see what happened.
+
+The duplicate charge refund ($29.99) was initiated on February 10th — reference TXN-REF-20260210-4471. However, it was flagged by our payment processor for manual review because your account had multiple billing adjustments in a short period (the duplicate charge + the date error from January). This shouldn't have delayed things, but it did. I've now manually approved it and escalated the processing. You should see the $29.99 back in your account within 24-48 hours.
+
+Regarding the $35 overdraft refund — I apologise, but I can see your email to billing@ was received but not actioned. That's on us. I've processed this refund myself today — reference TXN-REF-20260214-0892. Same timeline: 24-48 hours.
+
+To address your concern about the billing system: the issue that caused the wrong-date charge in January was a payment gateway retry bug. An engineering fix was deployed on February 5th. The duplicate charge on February 8th was actually a separate issue — a race condition during a billing system migration that affected a small number of accounts. That has also been patched as of February 11th.
+
+I understand this has been a poor experience and I want to make it right beyond just the refunds. I've applied a credit of one month free ($19.99) to your account, so your next billing cycle (March 8th) will show $0.00.
+
+If either refund doesn't appear by Monday February 17th, reply directly to this email and I will personally follow up.
+
+Again, I'm sorry for the runaround.
+
+Best regards,
+Marcus Chen
+Customer Support — StreamFit

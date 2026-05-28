@@ -1,0 +1,57 @@
+INTERACTION ID: SF-2026-0009
+DATE: 2026-02-12
+DURATION: 16:42
+CHANNEL: Phone
+AGENT: Sarah Mitchell
+
+---
+
+[00:00:04] Agent: StreamFit, Sarah speaking.
+
+[00:00:07] Customer: Hi Sarah. My name is Richard Tan, I'm the HR Director at Meridian Consulting. We're a mid-sized firm, about 300 employees, and we're looking at fitness and wellness platforms as part of our employee benefits programme.
+
+[00:00:22] Agent: That's great to hear, Richard. We do have an Enterprise offering for corporate wellness. Let me tell you about it.
+
+[00:00:29] Customer: Perfect. So our situation is — we've been using gym subsidies, basically reimbursing employees up to $50 a month if they have a gym membership. But utilisation is low, maybe 30% of employees claim it. We think a digital platform would get higher adoption because people can use it at home, while travelling, whatever.
+
+[00:00:52] Agent: That makes a lot of sense. Our Enterprise plan is designed exactly for that. It includes all Premium features for every employee — on-demand library, live classes, offline downloads, and the AI workout planner. We also provide an admin dashboard so your HR team can track engagement metrics without seeing individual workout data, which keeps it privacy-compliant.
+
+[00:01:15] Customer: The privacy piece is important. We'd need it to comply with Australian privacy legislation. What data do you collect and what do admins see?
+
+[00:01:26] Agent: Admins see aggregate data only — things like total active users, average sessions per week, most popular class categories, and overall engagement trends. They cannot see individual user activity, class choices, or any health-related data. Individual data stays with the employee.
+
+[00:01:45] Customer: Good. And pricing? At 300 seats, what are we looking at?
+
+[00:01:50] Agent: For a company your size, we typically offer tiered pricing. For 200-500 employees, the rate is $12 per employee per month with an annual commitment. So for 300 employees, that's $3,600 per month or $43,200 annually.
+
+[00:02:10] Customer: Hmm, that's less than the gym subsidy we're currently spending — we budget about $15 per employee per month for that. The question is whether adoption would be higher.
+
+[00:02:23] Agent: Typically we see 60-70% adoption in the first three months for corporate clients, compared to the 30% you mentioned for gym subsidies. The lower barrier — no commute, no gym intimidation — tends to drive it. We also offer an onboarding programme where we run live introductory sessions for your team to get them started.
+
+[00:02:45] Customer: That would help. Our workforce is pretty diverse — age range from early twenties to late fifties, very different fitness levels. Does the platform cater to all of that?
+
+[00:02:58] Agent: Absolutely. Every class is categorised by difficulty level — beginner, intermediate, and advanced — and the AI planner specifically adjusts recommendations based on each individual's fitness level and goals. We also have low-impact and accessibility-focused content for people with mobility restrictions.
+
+[00:03:18] Customer: What about integration with our existing HR systems? We use Workday for HR and we'd want to automate the provisioning — when someone joins the company they get access, when they leave it's revoked.
+
+[00:03:32] Agent: We have SAML SSO integration and a SCIM provisioning API that works with Workday. So yes, onboarding and offboarding can be fully automated.
+
+[00:03:43] Customer: Great. And reporting — can we get monthly reports to show the leadership team that the investment is working?
+
+[00:03:51] Agent: Yes, the admin dashboard has scheduled reporting. You can set up monthly PDF reports that go to stakeholders. They include engagement metrics, trending content, and participation rates. Some clients also use the data to run internal wellness challenges.
+
+[00:04:08] Customer: We'd love that. We run a "Wellness Month" every October. Could we set up a company-wide challenge through the platform?
+
+[00:04:17] Agent: Definitely. The Enterprise plan includes the ability to create custom challenges — step goals, class completion targets, consistency streaks. They show up in a leaderboard within your company's private group.
+
+[00:04:32] Customer: This is sounding really good. What's the next step?
+
+[00:04:36] Agent: I'd recommend setting up a call with our Enterprise partnerships team. They can do a full demo, walk you through the admin dashboard, and build a custom proposal for Meridian. I can have someone reach out to you within 24 hours. Would that work?
+
+[00:04:52] Customer: Yes, perfect. My email is r.tan@meridianconsulting.com.au. And can you also send over any case studies from similar-sized companies? Preferably professional services firms.
+
+[00:05:04] Agent: Absolutely. I'll pass your details along with that request. You should hear from our Enterprise team by tomorrow. Is there anything else I can help with?
+
+[00:05:14] Customer: No, that covers it. Thanks Sarah.
+
+[00:05:17] Agent: Thank you, Richard. Really excited about the possibility of working with Meridian. Have a great afternoon.

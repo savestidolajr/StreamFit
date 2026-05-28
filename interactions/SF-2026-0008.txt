@@ -1,0 +1,43 @@
+INTERACTION ID: SF-2026-0008
+DATE: 2026-02-12
+DURATION: 05:47
+CHANNEL: Phone
+AGENT: Rachel Torres
+
+---
+
+[00:00:03] Agent: StreamFit, Rachel here. How can I help?
+
+[00:00:06] Customer: Hi, I want to cancel my subscription. I've already moved to FitFlow, so this is pretty straightforward.
+
+[00:00:13] Agent: I'm sorry to hear that. Can I ask what led you to switch?
+
+[00:00:17] Customer: A few things. Firstly, FitFlow is $14.99 for basically the same content. That's five bucks less than your Basic and fifteen less than Premium. Second, their app actually works on my smart TV without crashing every ten minutes.
+
+[00:00:33] Agent: I understand. We have been working on some performance updates for the smart TV apps—
+
+[00:00:38] Customer: Yeah, I've heard that before. I called about this in November and was told "a fix is coming." It's February. I've been patient but at some point you just move on.
+
+[00:00:49] Agent: That's fair. Is there anything specific content-wise where FitFlow has been better?
+
+[00:00:55] Customer: Their outdoor running content is great — filmed on real trails with GPS integration. StreamFit's running content is all treadmill-based, which is boring. Also, FitFlow has a really good community feature. You can join challenges with friends and see a leaderboard. StreamFit feels more isolated.
+
+[00:01:15] Agent: Those are really good points. We've actually been piloting some community features—
+
+[00:01:20] Customer: Look, Rachel, I appreciate it, but I'm not shopping. I've made my decision. I just need the cancellation processed.
+
+[00:01:27] Agent: Understood. I'll process that now. Can I ask how long you were with us?
+
+[00:01:32] Customer: About ten months. Premium plan.
+
+[00:01:36] Agent: And just so I can log this accurately — to summarize, the main reasons for leaving are pricing, smart TV app reliability, and content preferences specifically around outdoor running and community features?
+
+[00:01:49] Customer: Yeah, that sums it up. Look, it's not a bad platform. The yoga content is excellent and Coach Daniels' HIIT series was what got me started. But FitFlow just offers more for less right now.
+
+[00:02:03] Agent: I appreciate the honest feedback. Your cancellation is processed effective at the end of your current billing cycle, which is February 22nd. You'll retain access until then.
+
+[00:02:15] Customer: Sounds good. Thanks Rachel.
+
+[00:02:17] Agent: Thank you for being a member. If things change, we'd love to have you back.
+
+[00:02:21] Customer: Sure. Bye.

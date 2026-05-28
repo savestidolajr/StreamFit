@@ -1,0 +1,45 @@
+INTERACTION ID: SF-2026-0015
+DATE: 2026-02-13
+DURATION: 06:45
+CHANNEL: Phone
+AGENT: Sarah Mitchell
+
+---
+
+[00:00:03] Agent: StreamFit, Sarah here.
+
+[00:00:06] Customer: Hi Sarah. I'm really upset. I just found out that Coach Daniels has left the platform. His HIIT series was literally the only reason I subscribed. What happened?
+
+[00:00:18] Agent: I understand your frustration. Yes, Coach Daniels' contract ended in January and he's moved on to his own independent platform. His existing content will remain on StreamFit for the foreseeable future though.
+
+[00:00:31] Customer: For the foreseeable future? So it could disappear eventually?
+
+[00:00:35] Agent: The licensing arrangement means his content will be available for at least the next 12 months. Beyond that, I can't make guarantees.
+
+[00:00:43] Customer: That's not reassuring. I've built my entire routine around his 8-week HIIT programme. I'm on week 6 right now. Will I at least be able to finish it?
+
+[00:00:54] Agent: Absolutely, yes. All his existing content stays for at least a year. You'll definitely be able to finish the programme and redo it as many times as you like.
+
+[00:01:05] Customer: But then what? Is anyone replacing him? Because I've tried the other HIIT instructors and they're just not at the same level. No offence to them, but Daniels had a way of pushing you that felt personal. The others are too generic.
+
+[00:01:21] Agent: We are actively recruiting new HIIT trainers and I can tell you the content team is specifically looking for someone with a similar style to Coach Daniels — high energy, structured programming, that tough-love coaching approach. But I can't give you a timeline on when that new content will be available.
+
+[00:01:40] Customer: So in the meantime, the HIIT section is basically frozen?
+
+[00:01:44] Agent: Not entirely — we have other HIIT instructors and the existing library is about 85 classes. But I understand that your specific preference was Coach Daniels' style. We're also looking at adding guest trainers for limited series, which could fill the gap.
+
+[00:01:59] Customer: I've been a Premium member for about eighteen months and I genuinely love the platform otherwise. But the trainers are what make or break it. Content is content — it's the person delivering it that matters.
+
+[00:02:14] Agent: You're absolutely right, and that's feedback I hear a lot. The trainer relationship is a huge part of the experience.
+
+[00:02:22] Customer: Look, I'm not going to cancel today. I want to finish the 8-week programme. But if there's no comparable HIIT content by the time I'm done — which is about three weeks — I'll probably downgrade to Basic and use FitFlow for HIIT. They've got some good trainers over there.
+
+[00:02:42] Agent: I understand. Can I do anything in the meantime? I could set up a notification for you when new HIIT content launches, so you're the first to know?
+
+[00:02:52] Customer: Yeah, do that. And tell your content team that losing a flagship trainer without having a replacement ready is a really bad look. Customers notice.
+
+[00:03:04] Agent: That's very direct and fair feedback. I'll pass it along verbatim. Is there anything else?
+
+[00:03:10] Customer: No, that's it. Thanks Sarah.
+
+[00:03:13] Agent: Thanks for sticking with us. I hope we can fill that gap for you soon.

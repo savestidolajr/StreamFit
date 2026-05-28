@@ -1,0 +1,59 @@
+INTERACTION ID: SF-2026-0023
+DATE: 2026-02-15
+DURATION: 11:20
+CHANNEL: Phone
+AGENT: Marcus Chen
+
+---
+
+[00:00:02] Agent: StreamFit support, Marcus here.
+
+[00:00:05] Customer: Yeah, I want to speak to a manager. I've called three times about a billing issue and nothing has been resolved.
+
+[00:00:12] Agent: I'm sorry you've had to call multiple times. Before I escalate, can I take a look at the issue? I might be able to resolve it right now.
+
+[00:00:20] Customer: Fine. The issue is this: I cancelled my subscription on December 15th. I have the confirmation email. But I've been charged $29.99 in January AND February. That's sixty dollars taken from my account after I cancelled.
+
+[00:00:37] Agent: That's definitely not right. Let me pull up your account. Email address?
+
+[00:00:41] Customer: s.park@email.com
+
+[00:00:47] Agent: OK, I've got your account, Soo-jin. I can see... you're right. There's a cancellation request logged on December 15th. But it shows as "pending" — it was never fully processed.
+
+[00:01:01] Customer: What do you mean "pending"? I got a confirmation email that said my subscription was cancelled.
+
+[00:01:08] Agent: The confirmation email was generated, which tells me you completed the cancellation flow. But something went wrong on the backend — the cancellation didn't propagate to the billing system. This is a system error, not anything you did wrong.
+
+[00:01:23] Customer: So for two months your system has been charging me for a service I cancelled? And the first two times I called, nobody caught this?
+
+[00:01:33] Agent: Let me look at the case history. [pause] I can see two previous calls — January 22nd and February 3rd. On both occasions, the agent noted the issue and said a refund was being processed. But I don't see any refunds actually issued.
+
+[00:01:50] Customer: Exactly. Both times I was told "it'll be sorted" and both times nothing happened. That's why I want a manager.
+
+[00:01:58] Agent: I completely understand and I'm going to fix this right now, not promise to fix it later. I'm issuing refunds for both the January and February charges — that's $59.98 total — while we're on the phone. I'm also going to manually force the cancellation on the billing system side. And I'll be the point of contact if there are any further issues.
+
+[00:02:20] Customer: How do I know the refund will actually go through this time?
+
+[00:02:24] Agent: I'm going to do it live while you're on the line. [typing sounds] OK, I've submitted both refunds. The transaction IDs are... REF-20260215-001 and REF-20260215-002. I'll email these to you right now so you have them on record. If the refunds don't appear within 5 business days, reply to that email and it comes directly to our billing escalations team, not general support.
+
+[00:02:50] Customer: OK. And my account is actually cancelled now?
+
+[00:02:54] Agent: Let me verify. [pause] Yes, your subscription status now shows "cancelled" in both the account system and the billing system. No future charges will occur. I've also flagged the bug that caused the cancellation to not propagate — this shouldn't happen to other customers.
+
+[00:03:12] Customer: This whole experience has been terrible. I liked StreamFit when I was using it, but this has completely destroyed my trust. I would never recommend you to anyone based on this.
+
+[00:03:24] Agent: That's a completely fair reaction and I'm genuinely sorry. We failed you not once but three times. The fact that two previous agents didn't resolve this is something I'll be raising internally.
+
+[00:03:37] Customer: Do I still need to speak to a manager?
+
+[00:03:40] Agent: That's entirely up to you. If you want to escalate a formal complaint, I can connect you now. If you feel this has been resolved, I've documented everything and the complaint will be reviewed regardless.
+
+[00:03:53] Customer: I think it's resolved. But I want it on record that this was handled poorly.
+
+[00:03:58] Agent: It's on record. I've flagged it as a three-contact unresolved billing error with system fault. The quality team will review all three interactions.
+
+[00:04:08] Customer: Fine. Thank you, Marcus. You're the first person who actually did something instead of just saying you would.
+
+[00:04:16] Agent: I'm sorry it took three calls to get here. You deserved better. Is there anything else?
+
+[00:04:21] Customer: No. Bye.

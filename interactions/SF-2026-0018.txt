@@ -1,0 +1,51 @@
+INTERACTION ID: SF-2026-0018
+DATE: 2026-02-14
+DURATION: 08:42
+CHANNEL: Phone
+AGENT: Sarah Mitchell
+
+---
+
+[00:00:03] Agent: StreamFit, Sarah speaking.
+
+[00:00:07] Customer: Hi. I need to cancel my Premium subscription. I've been going back and forth on this for a couple of months but I've made up my mind.
+
+[00:00:16] Agent: I'm sorry to hear that. Can you share what's driven the decision?
+
+[00:00:20] Customer: It's a combination of things. The price went up to $34.99 which I wasn't happy about. The content in the areas I care about hasn't been updated — I'm mainly into strength training and the library has been the same since I joined. And honestly, my financial situation has changed. I just had a baby three months ago and we're on one income now. Every dollar counts.
+
+[00:00:47] Agent: Congratulations on the baby, first of all. And I completely understand — that's a big life change. Let me see if there's anything I can do to help.
+
+[00:00:56] Customer: I appreciate that, but I've done the maths. Even at the old price of $29.99, it's hard to justify when I'm only working out maybe once a week now. With a newborn, I just don't have the time.
+
+[00:01:10] Agent: Have you considered our Basic plan? At $19.99 you'd keep the full on-demand library. You'd lose live classes and offline downloads, but if you're only working out once a week, those might not be essential.
+
+[00:01:24] Customer: That's still twenty bucks a month for four workouts. That's five dollars per session. I could just go to the park.
+
+[00:01:33] Agent: Fair point. What about pausing? You can pause for up to three months. By then the baby might be sleeping better, you might have more time, and you wouldn't have paid anything in the meantime.
+
+[00:01:46] Customer: I thought about pausing, but honestly, I'd rather make a clean break and come back later if I want to. My partner uses Peloton's app and keeps saying I should just switch to that because it's cheaper at $17 a month.
+
+[00:02:01] Agent: Peloton does have competitive pricing. But I'll mention — they don't have an AI workout planner or the depth of yoga content, if that matters to you.
+
+[00:02:11] Customer: It doesn't really, to be honest. I'm a weights person. And Peloton has some good strength instructors.
+
+[00:02:18] Agent: Understood. Can I ask — is there a price point where you'd stay with StreamFit?
+
+[00:02:24] Customer: If it was, like, ten bucks a month? Maybe. But that's obviously not realistic.
+
+[00:02:30] Agent: We don't have a $10 tier, but I do have a loyalty offer I can extend. You've been with us for about a year — I can offer you six months at $14.99 per month on Basic. That's 25% less than the standard Basic price.
+
+[00:02:47] Customer: $14.99 for Basic... that's closer to what I'm comfortable with. But I still don't know if I'll actually use it.
+
+[00:02:55] Agent: What if I combined the loyalty discount with a one-month pause? So you'd start the discounted Basic in March, giving you a month to settle into a routine with the baby, and then six months of reduced pricing to make it work financially.
+
+[00:03:10] Customer: Hmm. [long pause] No. I think I need to cancel. I appreciate you trying, Sarah, genuinely. But I know myself — if I keep the subscription I'll just feel guilty about not using it. Let me cancel now and come back when things stabilise.
+
+[00:03:28] Agent: Completely understood. No pressure at all. I've processed the cancellation. Your access continues until your billing date on March 1st. And your account data will be saved for 24 months, so if you come back, everything will be here.
+
+[00:03:44] Customer: That's good to know. Thanks for being understanding.
+
+[00:03:48] Agent: Of course. Enjoy the time with your new baby. That's way more important than any workout app.
+
+[00:03:54] Customer: Ha, thanks. Bye Sarah.

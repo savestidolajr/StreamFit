@@ -1,0 +1,57 @@
+INTERACTION ID: SF-2026-0016
+DATE: 2026-02-13
+DURATION: 10:15
+CHANNEL: Phone
+AGENT: Marcus Chen
+
+---
+
+[00:00:02] Agent: StreamFit support, Marcus here.
+
+[00:00:05] Customer: Hi Marcus. So, funny story — I actually used to be a StreamFit member about a year ago. I cancelled and went to FitFlow. And now I'm thinking about coming back.
+
+[00:00:16] Agent: Welcome back! What's bringing you back to us?
+
+[00:00:20] Customer: Well, FitFlow is cheap — I'll give them that. But the content quality just isn't there. The instructors feel like they're reading off a script. The production is like a YouTube video with a ring light. And they had a data breach two months ago that made me really uncomfortable.
+
+[00:00:40] Agent: I'm sorry to hear about the data breach concern. That's serious. And what did you like about StreamFit when you were here before?
+
+[00:00:48] Customer: The production quality for one. Your classes actually look and sound professional. The variety is good. And the yoga content — honestly the best I've found on any platform. Coach Layla's flows are incredible.
+
+[00:01:03] Agent: Coach Layla's definitely a favorite. She's actually just released a new 6-week progressive series called "Foundations to Flight" that takes you from beginner inversions to full arm balances.
+
+[00:01:15] Customer: Oh that sounds amazing. OK so what are my options? I was on Premium before. Has anything changed since I left?
+
+[00:01:24] Agent: A few things have been added. The AI workout planner is new since you left — it creates personalised weekly programmes. We've also added a meditation section and improved the live class schedule significantly. Pricing-wise, Basic is $19.99, Premium is $29.99, and Family is $39.99. I should mention — Premium is going up to $34.99 from March 1st, so now's actually a good time to lock in.
+
+[00:01:44] Customer: Actually, prices have gone up. I was paying $24.99 for Premium when I left.
+
+[00:01:50] Agent: You're right, there was a price increase about eight months ago. The current Premium rate is $29.99.
+
+[00:01:57] Customer: Hmm. And FitFlow is $14.99. That's a $15 difference.
+
+[00:02:03] Agent: It is a significant difference. But based on what you've told me — production quality, instructor calibre, data security — it sounds like those things matter to you. Can I ask, what would make the price feel worth it?
+
+[00:02:18] Customer: If I'm being honest? The AI planner thing sounds cool. And if the live classes are actually good — I never tried them before because the schedule didn't work for me. What times are they now?
+
+[00:02:32] Agent: We now run live classes from 5:30 AM to 9:00 PM AEST, seven days a week. That's up from the limited evening-only schedule we had before.
+
+[00:02:43] Customer: Oh wow, that's way better. I do 6 AM workouts so that would actually work.
+
+[00:02:49] Agent: And live classes have a replay feature now too. If you can't make the exact time, the replay is available within an hour and includes the live chat comments and instructor shoutouts.
+
+[00:03:00] Customer: OK, you're selling me. Is there a returning member discount or anything?
+
+[00:03:05] Agent: Let me check. [pause] Yes, I can offer you your first two months at $24.99 — your old rate — as a welcome-back offer. After that it goes to the standard $29.99.
+
+[00:03:18] Customer: Deal. Sign me up for Premium.
+
+[00:03:21] Agent: Done! I'm reactivating your account now. Your old workout history and preferences are still here — everything from your previous membership. So you'll pick up right where you left off in terms of recommendations.
+
+[00:03:34] Customer: That's actually really nice. I assumed all that would be gone.
+
+[00:03:39] Agent: We keep account data for 24 months after cancellation specifically for returning members. Welcome back!
+
+[00:03:46] Customer: Thanks Marcus. Looking forward to Coach Layla's new series.
+
+[00:03:50] Agent: You'll love it. Enjoy, and let us know if you need anything.
