@@ -1,0 +1,158 @@
+{
+  "interaction_id": "SF-2026-0001",
+  "interaction": {
+    "type": "cancellation",
+    "channel": "phone",
+    "duration_seconds": 702,
+    "agent": {
+      "name": "Sarah Mitchell",
+      "handled_well": true,
+      "notable_actions": "Acknowledged repeated unmet promises, offered targeted half-price loyalty discount tied to the April content drop, logged content feedback as high priority."
+    },
+    "resolution": {
+      "status": "partially_resolved",
+      "summary": "Customer agreed to stay three months on a half-price discount conditional on the April advanced-strength content actually materialising; otherwise cancelling for good."
+    }
+  },
+  "customer": {
+    "name": null,
+    "tenure_months": 24,
+    "current_plan": "premium",
+    "lifecycle_stage": "at_risk",
+    "demographic_signals": {
+      "age_range": "unknown",
+      "household": null,
+      "fitness_level": "advanced"
+    }
+  },
+  "sentiment": {
+    "overall": "negative",
+    "trajectory": "improving",
+    "emotional_intensity": "moderate",
+    "key_moments": [
+      {
+        "timestamp": "00:02:18",
+        "description": "Agent offers three months at $14.99",
+        "sentiment_shift": "turning_point",
+        "trigger": "Loyalty discount tied to upcoming content drop"
+      },
+      {
+        "timestamp": "00:03:12",
+        "description": "Customer agrees to stay conditionally",
+        "sentiment_shift": "positive_spike",
+        "trigger": "Concrete date (April 15th) for new strength content"
+      }
+    ]
+  },
+  "insights": {
+    "pain_points": [
+      {
+        "category": "content",
+        "description": "Catalogue feels stale; no new content perceived in last six months",
+        "severity": "high",
+        "verbatim_quote": "I'm doing the same workouts I was doing in October.",
+        "actionable": true
+      },
+      {
+        "category": "content",
+        "description": "Strength training library is too small and only beginner level",
+        "severity": "high",
+        "verbatim_quote": "if you're into weightlifting there's like twelve classes total. And the ones that are there are beginner level.",
+        "actionable": true
+      },
+      {
+        "category": "customer_service",
+        "description": "Prior feedback (calls and survey) appears to have been ignored",
+        "severity": "medium",
+        "verbatim_quote": "I even filled out that survey you sent last year. Nothing changed.",
+        "actionable": true
+      },
+      {
+        "category": "pricing",
+        "description": "Perceived value drop at $29.99 given static library",
+        "severity": "medium",
+        "verbatim_quote": "I'm basically paying thirty bucks a month for a library that doesn't change.",
+        "actionable": true
+      }
+    ],
+    "motivations": [
+      {
+        "type": "structured_programming",
+        "description": "Wants intermediate-to-advanced programmed strength training rather than ad-hoc browsing",
+        "strength": "strong"
+      },
+      {
+        "type": "specific_content",
+        "description": "Loyalty originally driven by Coach Daniels' HIIT series",
+        "strength": "moderate"
+      }
+    ],
+    "competitor_mentions": [
+      {
+        "name": "FitFlow",
+        "context": "currently_using",
+        "sentiment_vs_us": "competitor_preferred",
+        "detail": "Already started using FitFlow for strength content on a friend's recommendation."
+      }
+    ],
+    "feature_requests": [
+      {
+        "feature": "Intermediate-to-advanced strength training programmes",
+        "urgency": "dealbreaker",
+        "existing_workaround": "Using FitFlow for strength workouts"
+      }
+    ]
+  },
+  "intent": {
+    "primary": "Cancel Premium subscription due to content staleness",
+    "secondary": "Provide feedback about strength content gap",
+    "churn_risk": {
+      "level": "high",
+      "factors": [
+        "Already evaluating competitor (FitFlow)",
+        "Hard deadline (April) before final cancellation",
+        "Prior feedback unaddressed",
+        "Long tenure (24 months) — high-value loss if churn"
+      ],
+      "save_attempted": true,
+      "save_successful": true
+    },
+    "upsell_opportunity": {
+      "level": "none",
+      "target_plan": null,
+      "signals": []
+    }
+  },
+  "topics": [
+    {"topic": "content_freshness", "relevance": "primary", "sentiment": "negative"},
+    {"topic": "strength_training", "relevance": "primary", "sentiment": "negative"},
+    {"topic": "loyalty_discount", "relevance": "secondary", "sentiment": "positive"},
+    {"topic": "competitor_comparison", "relevance": "secondary", "sentiment": "negative"}
+  ],
+  "action_items": [
+    {
+      "action": "Apply three-month $14.99 loyalty discount from Feb 18 billing",
+      "owner": "agent",
+      "priority": "high",
+      "status": "completed"
+    },
+    {
+      "action": "Log advanced strength training content request as high priority",
+      "owner": "product",
+      "priority": "high",
+      "status": "completed"
+    },
+    {
+      "action": "Re-engage customer post April 15 content drop",
+      "owner": "agent",
+      "priority": "high",
+      "status": "requires_follow_up"
+    }
+  ],
+  "quality_flags": {
+    "interaction_quality": "clean",
+    "extraction_confidence": "high",
+    "requires_human_review": false,
+    "review_reasons": []
+  }
+}

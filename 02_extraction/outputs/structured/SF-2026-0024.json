@@ -1,0 +1,146 @@
+{
+  "interaction_id": "SF-2026-0024",
+  "interaction": {
+    "type": "general_inquiry",
+    "channel": "phone",
+    "duration_seconds": 648,
+    "agent": {
+      "name": "Rachel Torres",
+      "handled_well": true,
+      "notable_actions": "Provided detailed, specific answers on AWS hosting, deletion rights, JSON data export, AI training scope, and aggregated-data opt-out status."
+    },
+    "resolution": {
+      "status": "resolved",
+      "summary": "Customer's privacy questions answered comprehensively; cautiously satisfied pending review of privacy policy and transparency report."
+    }
+  },
+  "customer": {
+    "name": null,
+    "tenure_months": null,
+    "current_plan": "premium",
+    "lifecycle_stage": "active",
+    "demographic_signals": {
+      "age_range": "unknown",
+      "household": "couple",
+      "fitness_level": "unknown"
+    }
+  },
+  "sentiment": {
+    "overall": "neutral",
+    "trajectory": "improving",
+    "emotional_intensity": "moderate",
+    "key_moments": [
+      {
+        "timestamp": "00:02:50",
+        "description": "Customer signals discomfort with aggregated-data inclusion",
+        "sentiment_shift": "negative_spike",
+        "trigger": "No opt-out for anonymised aggregated data contribution"
+      },
+      {
+        "timestamp": "00:04:38",
+        "description": "Customer endorses JSON-format data export",
+        "sentiment_shift": "positive_spike",
+        "trigger": "Machine-readable export better than competitor norms"
+      }
+    ]
+  },
+  "insights": {
+    "pain_points": [
+      {
+        "category": "feature_gap",
+        "description": "No opt-out for aggregated/anonymised data contribution to general AI model",
+        "severity": "medium",
+        "verbatim_quote": "I'd prefer to opt out entirely. Is that possible?",
+        "actionable": true
+      },
+      {
+        "category": "feature_gap",
+        "description": "Privacy controls perceived as not keeping pace with industry expectations",
+        "severity": "medium",
+        "verbatim_quote": "people are getting very nervous about where their data ends up.",
+        "actionable": true
+      }
+    ],
+    "motivations": [
+      {
+        "type": "data_privacy",
+        "description": "Cybersecurity professional with high baseline scrutiny on data handling",
+        "strength": "strong"
+      }
+    ],
+    "competitor_mentions": [],
+    "feature_requests": [
+      {
+        "feature": "Granular opt-out for aggregated/anonymised data contribution",
+        "urgency": "important",
+        "existing_workaround": "Full account deletion (removes personalisation but heavy-handed)"
+      }
+    ]
+  },
+  "intent": {
+    "primary": "Verify StreamFit's data handling practices",
+    "secondary": "Establish baseline trust before continuing as a Premium customer",
+    "churn_risk": {
+      "level": "low",
+      "factors": [
+        "Conditional: customer will cancel and publicly write about it via 20k-subscriber security blog if anything 'shady' surfaces",
+        "Currently happy with the product itself"
+      ],
+      "save_attempted": false,
+      "save_successful": null
+    },
+    "upsell_opportunity": {
+      "level": "none",
+      "target_plan": null,
+      "signals": []
+    }
+  },
+  "topics": [
+    {
+      "topic": "data_privacy",
+      "relevance": "primary",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "ai_training_data",
+      "relevance": "primary",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "data_export",
+      "relevance": "secondary",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "regulatory_compliance",
+      "relevance": "secondary",
+      "sentiment": "neutral"
+    }
+  ],
+  "action_items": [
+    {
+      "action": "Log aggregated-data opt-out as feature request",
+      "owner": "product",
+      "priority": "medium",
+      "status": "completed"
+    },
+    {
+      "action": "Send privacy policy and latest transparency report links",
+      "owner": "agent",
+      "priority": "low",
+      "status": "completed"
+    },
+    {
+      "action": "Tag account as high-visibility (security blog with 20k subscribers)",
+      "owner": "management",
+      "priority": "medium",
+      "status": "requires_follow_up"
+    }
+  ],
+  "quality_flags": {
+    "interaction_quality": "clean",
+    "extraction_confidence": "high",
+    "requires_human_review": false,
+    "review_reasons": []
+  }
+}

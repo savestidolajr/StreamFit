@@ -1,0 +1,138 @@
+{
+  "interaction_id": "SF-2026-0017",
+  "interaction": {
+    "type": "complaint",
+    "channel": "email",
+    "duration_seconds": null,
+    "agent": {
+      "name": "Marcus Chen",
+      "handled_well": true,
+      "notable_actions": "Acknowledged failure, provided transaction references, manually processed the overdue overdraft refund, applied one-month-free credit as goodwill, explained root cause."
+    },
+    "resolution": {
+      "status": "resolved",
+      "summary": "Both refunds manually escalated with transaction IDs and a $19.99 goodwill credit applied; agent committed to personal follow-up if refunds miss the deadline."
+    }
+  },
+  "customer": {
+    "name": "David Wright",
+    "tenure_months": 8,
+    "current_plan": "basic",
+    "lifecycle_stage": "at_risk",
+    "demographic_signals": {
+      "age_range": "unknown",
+      "household": null,
+      "fitness_level": "unknown"
+    }
+  },
+  "sentiment": {
+    "overall": "very_negative",
+    "trajectory": "improving",
+    "emotional_intensity": "high",
+    "key_moments": [
+      {
+        "timestamp": null,
+        "description": "Customer threatens chargeback and cancellation",
+        "sentiment_shift": "negative_spike",
+        "trigger": "Failure of promised refund to materialise within stated SLA"
+      },
+      {
+        "timestamp": null,
+        "description": "Agent provides explicit transaction references and goodwill credit",
+        "sentiment_shift": "turning_point",
+        "trigger": "Concrete accountability and a named follow-up path"
+      }
+    ]
+  },
+  "insights": {
+    "pain_points": [
+      {
+        "category": "billing",
+        "description": "Refund promised on Feb 10 still not visible on Feb 13 (held in manual review queue)",
+        "severity": "critical",
+        "verbatim_quote": "The duplicate charge refund ($29.99) has NOT appeared in my account",
+        "actionable": true
+      },
+      {
+        "category": "customer_service",
+        "description": "Email to billing@streamfit.com received no response",
+        "severity": "high",
+        "verbatim_quote": "I've had zero response to my email to billing@ about the $35 overdraft refund",
+        "actionable": true
+      },
+      {
+        "category": "customer_service",
+        "description": "Cumulative trust erosion from repeated billing failures",
+        "severity": "high",
+        "verbatim_quote": "it makes me feel like I'm being taken for a ride.",
+        "actionable": true
+      }
+    ],
+    "motivations": [
+      {
+        "type": "value_for_money",
+        "description": "Long-tenure Basic customer who does not expect to fight for accurate billing",
+        "strength": "strong"
+      }
+    ],
+    "competitor_mentions": [],
+    "feature_requests": []
+  },
+  "intent": {
+    "primary": "Escalate unresolved refund and demand verifiable resolution before filing chargeback",
+    "secondary": "Get assurance that the underlying billing bug is fixed",
+    "churn_risk": {
+      "level": "high",
+      "factors": [
+        "Explicit ultimatum: chargeback + cancellation if not fixed by end of week",
+        "Second escalation on same incident",
+        "Trust eroded by multiple billing failures in two months"
+      ],
+      "save_attempted": true,
+      "save_successful": null
+    },
+    "upsell_opportunity": {
+      "level": "none",
+      "target_plan": null,
+      "signals": []
+    }
+  },
+  "topics": [
+    {"topic": "billing_errors", "relevance": "primary", "sentiment": "negative"},
+    {"topic": "refund_processing", "relevance": "primary", "sentiment": "negative"},
+    {"topic": "customer_service_responsiveness", "relevance": "primary", "sentiment": "negative"},
+    {"topic": "billing_system_reliability", "relevance": "secondary", "sentiment": "negative"}
+  ],
+  "action_items": [
+    {
+      "action": "Confirm refund TXN-REF-20260210-4471 ($29.99) clears within 24-48h",
+      "owner": "billing",
+      "priority": "urgent",
+      "status": "requires_follow_up"
+    },
+    {
+      "action": "Process refund TXN-REF-20260214-0892 ($35 overdraft)",
+      "owner": "billing",
+      "priority": "urgent",
+      "status": "completed"
+    },
+    {
+      "action": "Apply $19.99 goodwill credit to March 8 billing cycle",
+      "owner": "billing",
+      "priority": "medium",
+      "status": "completed"
+    },
+    {
+      "action": "Investigate why billing@streamfit.com email queue was unattended",
+      "owner": "management",
+      "priority": "high",
+      "status": "pending"
+    }
+  ],
+  "quality_flags": {
+    "interaction_quality": "clean",
+    "extraction_confidence": "high",
+    "requires_human_review": false,
+    "review_reasons": []
+  }
+}

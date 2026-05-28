@@ -1,0 +1,150 @@
+{
+  "interaction_id": "SF-2026-0002",
+  "interaction": {
+    "type": "complaint",
+    "channel": "phone",
+    "duration_seconds": 555,
+    "agent": {
+      "name": "Marcus Chen",
+      "handled_well": true,
+      "notable_actions": "Initiated immediate refund of duplicate charge, set up email-based path for overdraft reimbursement, explained the underlying payment gateway issue."
+    },
+    "resolution": {
+      "status": "resolved",
+      "summary": "Duplicate $29.99 refund initiated; $35 overdraft refund pending bank statement submission to billing@."
+    }
+  },
+  "customer": {
+    "name": "David Wright",
+    "tenure_months": 8,
+    "current_plan": "basic",
+    "lifecycle_stage": "at_risk",
+    "demographic_signals": {
+      "age_range": "unknown",
+      "household": null,
+      "fitness_level": "unknown"
+    }
+  },
+  "sentiment": {
+    "overall": "very_negative",
+    "trajectory": "improving",
+    "emotional_intensity": "high",
+    "key_moments": [
+      {
+        "timestamp": "00:00:58",
+        "description": "Customer reacts angrily to 3-5 day refund timeline",
+        "sentiment_shift": "negative_spike",
+        "trigger": "Asymmetry between instant charge and slow refund"
+      },
+      {
+        "timestamp": "00:02:11",
+        "description": "Agent offers direct $35 refund path for overdraft",
+        "sentiment_shift": "turning_point",
+        "trigger": "Concrete financial resolution rather than account credit"
+      }
+    ]
+  },
+  "insights": {
+    "pain_points": [
+      {
+        "category": "billing",
+        "description": "Duplicate $29.99 charge from system fault on Feb 8",
+        "severity": "critical",
+        "verbatim_quote": "I just got charged twice this month and I need this sorted out right now.",
+        "actionable": true
+      },
+      {
+        "category": "billing",
+        "description": "January charge processed on wrong date, causing $35 overdraft fee",
+        "severity": "high",
+        "verbatim_quote": "That cost me $35 in bank fees because your system charged me on the 3rd instead of the 8th.",
+        "actionable": true
+      },
+      {
+        "category": "billing",
+        "description": "Refund timeline (3-5 business days) feels punitive against instant debit",
+        "severity": "medium",
+        "verbatim_quote": "You took the money instantly but it takes a week to give it back?",
+        "actionable": false
+      },
+      {
+        "category": "content",
+        "description": "Too much value is gated behind Premium versus Basic",
+        "severity": "medium",
+        "verbatim_quote": "half the good classes are Premium-only... it's getting hard to justify.",
+        "actionable": true
+      }
+    ],
+    "motivations": [
+      {
+        "type": "value_for_money",
+        "description": "Wants the subscription cost to match perceived value",
+        "strength": "strong"
+      }
+    ],
+    "competitor_mentions": [],
+    "feature_requests": []
+  },
+  "intent": {
+    "primary": "Resolve duplicate billing charge and recover overdraft fee",
+    "secondary": "Raise broader concern about billing reliability",
+    "churn_risk": {
+      "level": "medium",
+      "factors": [
+        "Recurring billing failures (2nd incident in 2 months)",
+        "Customer explicitly threatening to leave",
+        "Content gating frustration on top of billing"
+      ],
+      "save_attempted": true,
+      "save_successful": true
+    },
+    "upsell_opportunity": {
+      "level": "none",
+      "target_plan": null,
+      "signals": []
+    }
+  },
+  "topics": [
+    {
+      "topic": "billing_errors",
+      "relevance": "primary",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "payment_processing",
+      "relevance": "primary",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "content_gating",
+      "relevance": "secondary",
+      "sentiment": "negative"
+    }
+  ],
+  "action_items": [
+    {
+      "action": "Process refund for duplicate $29.99 charge",
+      "owner": "billing",
+      "priority": "urgent",
+      "status": "completed"
+    },
+    {
+      "action": "Process $35 overdraft refund once bank statement received via billing@streamfit.com",
+      "owner": "billing",
+      "priority": "high",
+      "status": "requires_follow_up"
+    },
+    {
+      "action": "Verify payment gateway retry fix has stuck",
+      "owner": "engineering",
+      "priority": "high",
+      "status": "pending"
+    }
+  ],
+  "quality_flags": {
+    "interaction_quality": "clean",
+    "extraction_confidence": "high",
+    "requires_human_review": false,
+    "review_reasons": []
+  }
+}

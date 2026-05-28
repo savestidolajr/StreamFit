@@ -1,0 +1,142 @@
+{
+  "interaction_id": "SF-2026-0023",
+  "interaction": {
+    "type": "complaint",
+    "channel": "phone",
+    "duration_seconds": 680,
+    "agent": {
+      "name": "Marcus Chen",
+      "handled_well": true,
+      "notable_actions": "Issued both refunds live with transaction IDs on the call, force-cancelled in the billing system, flagged the propagation bug to engineering, raised the three-contact failure internally for quality review."
+    },
+    "resolution": {
+      "status": "resolved",
+      "summary": "Two months of charges ($59.98) refunded with transaction references; cancellation now actually propagated to billing; underlying bug flagged."
+    }
+  },
+  "customer": {
+    "name": "Soo-jin Park",
+    "tenure_months": null,
+    "current_plan": "unknown",
+    "lifecycle_stage": "churned",
+    "demographic_signals": {
+      "age_range": "unknown",
+      "household": null,
+      "fitness_level": "unknown"
+    }
+  },
+  "sentiment": {
+    "overall": "very_negative",
+    "trajectory": "improving",
+    "emotional_intensity": "high",
+    "key_moments": [
+      {
+        "timestamp": "00:01:50",
+        "description": "Customer learns two prior agents had logged refunds that never processed",
+        "sentiment_shift": "negative_spike",
+        "trigger": "Case history reveals systemic follow-through failure"
+      },
+      {
+        "timestamp": "00:02:20",
+        "description": "Agent issues refunds live with transaction IDs",
+        "sentiment_shift": "turning_point",
+        "trigger": "Action taken in-call rather than promised for later"
+      }
+    ]
+  },
+  "insights": {
+    "pain_points": [
+      {
+        "category": "billing",
+        "description": "Cancellation request never propagated from account system to billing system; charged twice post-cancellation",
+        "severity": "critical",
+        "verbatim_quote": "I've been charged $29.99 in January AND February. That's sixty dollars taken from my account after I cancelled.",
+        "actionable": true
+      },
+      {
+        "category": "customer_service",
+        "description": "Two prior support contacts noted refund but never executed it",
+        "severity": "critical",
+        "verbatim_quote": "Both times I was told \"it'll be sorted\" and both times nothing happened.",
+        "actionable": true
+      },
+      {
+        "category": "customer_service",
+        "description": "Cumulative trust destroyed; will not recommend",
+        "severity": "high",
+        "verbatim_quote": "this has completely destroyed my trust. I would never recommend you to anyone based on this.",
+        "actionable": true
+      }
+    ],
+    "motivations": [
+      {
+        "type": "fair_treatment",
+        "description": "Just wants the original cancellation honoured and money returned",
+        "strength": "strong"
+      }
+    ],
+    "competitor_mentions": [],
+    "feature_requests": [
+      {
+        "feature": "Cancellation propagation between account and billing systems must be reliable",
+        "urgency": "dealbreaker",
+        "existing_workaround": "Customer must call repeatedly until an agent force-cancels manually"
+      }
+    ]
+  },
+  "intent": {
+    "primary": "Get post-cancellation charges refunded and ensure cancellation is real",
+    "secondary": "Formally register dissatisfaction with how prior calls were handled",
+    "churn_risk": {
+      "level": "none",
+      "factors": [
+        "Already churned — original cancellation Dec 15"
+      ],
+      "save_attempted": false,
+      "save_successful": null
+    },
+    "upsell_opportunity": {
+      "level": "none",
+      "target_plan": null,
+      "signals": []
+    }
+  },
+  "topics": [
+    {"topic": "cancellation_processing_failure", "relevance": "primary", "sentiment": "negative"},
+    {"topic": "billing_errors", "relevance": "primary", "sentiment": "negative"},
+    {"topic": "agent_follow_through", "relevance": "primary", "sentiment": "negative"},
+    {"topic": "brand_advocacy_loss", "relevance": "secondary", "sentiment": "negative"}
+  ],
+  "action_items": [
+    {
+      "action": "Process refunds REF-20260215-001 and REF-20260215-002 ($59.98 total)",
+      "owner": "billing",
+      "priority": "urgent",
+      "status": "completed"
+    },
+    {
+      "action": "Force cancellation in billing system",
+      "owner": "billing",
+      "priority": "urgent",
+      "status": "completed"
+    },
+    {
+      "action": "Engineering investigation into cancellation propagation bug",
+      "owner": "engineering",
+      "priority": "urgent",
+      "status": "requires_follow_up"
+    },
+    {
+      "action": "Quality review of three prior interactions on this account",
+      "owner": "management",
+      "priority": "high",
+      "status": "pending"
+    }
+  ],
+  "quality_flags": {
+    "interaction_quality": "clean",
+    "extraction_confidence": "high",
+    "requires_human_review": false,
+    "review_reasons": []
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "interaction_id": "SF-2026-0022",
+  "interaction": {
+    "type": "cancellation",
+    "channel": "phone",
+    "duration_seconds": 835,
+    "agent": {
+      "name": "Sarah Mitchell",
+      "handled_well": true,
+      "notable_actions": "Addressed each of three stacked complaints with specific concessions (price lock, free month, named content launch), wrote a detailed retention note on the account so a future agent honours the commitments."
+    },
+    "resolution": {
+      "status": "partially_resolved",
+      "summary": "Customer retained conditionally until April pending delivery of new HIIT content, Samsung TV fix, and social features."
+    }
+  },
+  "customer": {
+    "name": null,
+    "tenure_months": 24,
+    "current_plan": "premium",
+    "lifecycle_stage": "at_risk",
+    "demographic_signals": {
+      "age_range": "unknown",
+      "household": null,
+      "fitness_level": "advanced"
+    }
+  },
+  "sentiment": {
+    "overall": "negative",
+    "trajectory": "improving",
+    "emotional_intensity": "high",
+    "key_moments": [
+      {
+        "timestamp": "00:01:05",
+        "description": "Agent commits to addressing each concern directly",
+        "sentiment_shift": "turning_point",
+        "trigger": "Agent acknowledges all three issues without deflection"
+      },
+      {
+        "timestamp": "00:02:30",
+        "description": "Customer summarises the multi-pronged retention offer back",
+        "sentiment_shift": "positive_spike",
+        "trigger": "Concrete combined offer (price lock + free month + dated content launch)"
+      },
+      {
+        "timestamp": "00:03:25",
+        "description": "Customer agrees to stay but issues April ultimatum",
+        "sentiment_shift": "turning_point",
+        "trigger": "Trust contingent on delivery"
+      }
+    ]
+  },
+  "insights": {
+    "pain_points": [
+      {
+        "category": "pricing",
+        "description": "Premium price increase to $34.99",
+        "severity": "high",
+        "verbatim_quote": "The price increase to $34.99 was the first one.",
+        "actionable": true
+      },
+      {
+        "category": "content",
+        "description": "Departure of flagship HIIT trainer Coach Daniels with no replacement",
+        "severity": "critical",
+        "verbatim_quote": "Coach Daniels left, which gutted me because his HIIT series was my primary workout.",
+        "actionable": true
+      },
+      {
+        "category": "app_performance",
+        "description": "Samsung TV app crashing during live classes",
+        "severity": "critical",
+        "verbatim_quote": "last week the app crashed twice during live classes on my Samsung TV.",
+        "actionable": true
+      },
+      {
+        "category": "feature_gap",
+        "description": "No social/community features for shared challenges with friends",
+        "severity": "medium",
+        "verbatim_quote": "they can see each other's workout streaks and compete. Does StreamFit have anything like that?",
+        "actionable": true
+      },
+      {
+        "category": "content",
+        "description": "Perception that the platform is going backwards",
+        "severity": "high",
+        "verbatim_quote": "It feels like the platform is going backwards, not forwards.",
+        "actionable": true
+      }
+    ],
+    "motivations": [
+      {
+        "type": "specific_content",
+        "description": "Primary workout was Coach Daniels' HIIT series",
+        "strength": "strong"
+      },
+      {
+        "type": "social",
+        "description": "Friends already on FitFlow doing shared challenges",
+        "strength": "moderate"
+      }
+    ],
+    "competitor_mentions": [
+      {
+        "name": "FitFlow",
+        "context": "considering",
+        "sentiment_vs_us": "competitor_preferred",
+        "detail": "Three friends already on FitFlow; social/challenge features are the explicit pull factor."
+      }
+    ],
+    "feature_requests": [
+      {
+        "feature": "Replacement HIIT content of comparable quality to Coach Daniels' series",
+        "urgency": "dealbreaker",
+        "existing_workaround": "Re-doing existing Coach Daniels classes"
+      },
+      {
+        "feature": "Stable Samsung TV app",
+        "urgency": "dealbreaker",
+        "existing_workaround": null
+      },
+      {
+        "feature": "Social features and shared challenges",
+        "urgency": "important",
+        "existing_workaround": "Friends use FitFlow instead"
+      }
+    ]
+  },
+  "intent": {
+    "primary": "Cancel Premium subscription over stacked content, pricing, and reliability issues",
+    "secondary": "Signal three explicit conditions for staying long-term",
+    "churn_risk": {
+      "level": "high",
+      "factors": [
+        "Three stacked dealbreakers (content, app, price)",
+        "Specific competitor with friends already on it",
+        "Hard April re-evaluation deadline",
+        "Long tenure (24 months) — high-value loss if churn"
+      ],
+      "save_attempted": true,
+      "save_successful": true
+    },
+    "upsell_opportunity": {
+      "level": "none",
+      "target_plan": null,
+      "signals": []
+    }
+  },
+  "topics": [
+    {
+      "topic": "pricing_increase",
+      "relevance": "primary",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "trainer_departure",
+      "relevance": "primary",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "samsung_tv_app_crashes",
+      "relevance": "primary",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "social_features",
+      "relevance": "secondary",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "retention_offer",
+      "relevance": "secondary",
+      "sentiment": "positive"
+    }
+  ],
+  "action_items": [
+    {
+      "action": "Apply 12-month price lock at $29.99",
+      "owner": "agent",
+      "priority": "high",
+      "status": "completed"
+    },
+    {
+      "action": "Waive March 1 billing (one month free)",
+      "owner": "billing",
+      "priority": "high",
+      "status": "completed"
+    },
+    {
+      "action": "Attach retention note to account for April re-evaluation",
+      "owner": "agent",
+      "priority": "high",
+      "status": "completed"
+    },
+    {
+      "action": "Deliver Intensity Series HIIT launch on March 15",
+      "owner": "product",
+      "priority": "urgent",
+      "status": "pending"
+    },
+    {
+      "action": "Ship Samsung TV app fix in mid-March update",
+      "owner": "engineering",
+      "priority": "urgent",
+      "status": "pending"
+    },
+    {
+      "action": "Re-engage customer in April; honour cancel-without-hassle commitment if unsatisfied",
+      "owner": "agent",
+      "priority": "high",
+      "status": "requires_follow_up"
+    }
+  ],
+  "quality_flags": {
+    "interaction_quality": "clean",
+    "extraction_confidence": "high",
+    "requires_human_review": false,
+    "review_reasons": []
+  }
+}

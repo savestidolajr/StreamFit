@@ -1,0 +1,153 @@
+{
+  "interaction_id": "SF-2026-0021",
+  "interaction": {
+    "type": "support_request",
+    "channel": "phone",
+    "duration_seconds": 158,
+    "agent": {
+      "name": "James Okonkwo",
+      "handled_well": true,
+      "notable_actions": "Restored 42-day streak by manually marking the class complete and added device to engineering ticket as a repeat-issue case."
+    },
+    "resolution": {
+      "status": "partially_resolved",
+      "summary": "Streak restored and crash logged, but underlying Samsung TV app instability persists until the mid-March update."
+    }
+  },
+  "customer": {
+    "name": null,
+    "tenure_months": null,
+    "current_plan": "unknown",
+    "lifecycle_stage": "at_risk",
+    "demographic_signals": {
+      "age_range": "unknown",
+      "household": null,
+      "fitness_level": "unknown"
+    }
+  },
+  "sentiment": {
+    "overall": "negative",
+    "trajectory": "stable",
+    "emotional_intensity": "moderate",
+    "key_moments": [
+      {
+        "timestamp": "00:01:20",
+        "description": "Streak manually restored",
+        "sentiment_shift": "positive_spike",
+        "trigger": "Concrete fix in-call rather than promise of future fix"
+      },
+      {
+        "timestamp": "00:01:43",
+        "description": "Customer learns fix is still weeks away",
+        "sentiment_shift": "negative_spike",
+        "trigger": "Mid-March update timeline given for a recurring crash"
+      }
+    ]
+  },
+  "insights": {
+    "pain_points": [
+      {
+        "category": "app_performance",
+        "description": "Samsung TV app crashes mid-class on 2021 model (fourth time in one month)",
+        "severity": "critical",
+        "verbatim_quote": "the whole app just froze and then kicked me out.",
+        "actionable": true
+      },
+      {
+        "category": "app_performance",
+        "description": "Crashes cause loss of workout streak; customer must call support to restore",
+        "severity": "high",
+        "verbatim_quote": "Forty-two days in a row and it broke because your app crashed.",
+        "actionable": true
+      },
+      {
+        "category": "customer_service",
+        "description": "Customer cannot keep calling for each crash recovery",
+        "severity": "medium",
+        "verbatim_quote": "I can't keep",
+        "actionable": true
+      }
+    ],
+    "motivations": [
+      {
+        "type": "habit_streak",
+        "description": "Daily class consistency is core to engagement",
+        "strength": "strong"
+      }
+    ],
+    "competitor_mentions": [],
+    "feature_requests": [
+      {
+        "feature": "Automatic streak protection when the app crashes mid-class",
+        "urgency": "important",
+        "existing_workaround": "Call support each time to manually restore"
+      }
+    ]
+  },
+  "intent": {
+    "primary": "Restore lost workout streak after app crash",
+    "secondary": "Pressure for a faster fix on Samsung TV crashes",
+    "churn_risk": {
+      "level": "medium",
+      "factors": [
+        "Repeat crashes (4 in one month) on a paid feature",
+        "Mid-March fix timeline puts further crashes in the customer's path",
+        "Customer already planning a workaround (cast from phone)"
+      ],
+      "save_attempted": false,
+      "save_successful": null
+    },
+    "upsell_opportunity": {
+      "level": "none",
+      "target_plan": null,
+      "signals": []
+    }
+  },
+  "topics": [
+    {
+      "topic": "samsung_tv_app_crashes",
+      "relevance": "primary",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "workout_streak",
+      "relevance": "primary",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "live_class_reliability",
+      "relevance": "secondary",
+      "sentiment": "negative"
+    }
+  ],
+  "action_items": [
+    {
+      "action": "Restore 42-day streak manually",
+      "owner": "agent",
+      "priority": "high",
+      "status": "completed"
+    },
+    {
+      "action": "Add device to Samsung TV repeat-issue ticket",
+      "owner": "engineering",
+      "priority": "high",
+      "status": "completed"
+    },
+    {
+      "action": "Ship Samsung TV app fix (mid-March target)",
+      "owner": "engineering",
+      "priority": "urgent",
+      "status": "pending"
+    }
+  ],
+  "quality_flags": {
+    "interaction_quality": "significant_gaps",
+    "extraction_confidence": "medium",
+    "requires_human_review": true,
+    "review_reasons": [
+      "Multiple [inaudible] segments and background noise",
+      "Customer name, tenure, and plan not captured",
+      "Class title and exact crash count partially inaudible"
+    ]
+  }
+}

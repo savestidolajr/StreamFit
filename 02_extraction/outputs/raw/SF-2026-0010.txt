@@ -1,0 +1,162 @@
+{
+  "interaction_id": "SF-2026-0010",
+  "interaction": {
+    "type": "general_inquiry",
+    "channel": "live_chat",
+    "duration_seconds": 415,
+    "agent": {
+      "name": "James Okonkwo",
+      "handled_well": true,
+      "notable_actions": "Asked targeted follow-ups, captured competitor pricing intel (Headspace $12.99), surfaced bundle willingness-to-pay signal ($35-40)."
+    },
+    "resolution": {
+      "status": "resolved",
+      "summary": "Feedback captured across yin/restorative yoga content, meditation programmes, and granular class search."
+    }
+  },
+  "customer": {
+    "name": null,
+    "tenure_months": 5,
+    "current_plan": "premium",
+    "lifecycle_stage": "active",
+    "demographic_signals": {
+      "age_range": "unknown",
+      "household": null,
+      "fitness_level": "intermediate"
+    }
+  },
+  "sentiment": {
+    "overall": "very_positive",
+    "trajectory": "stable",
+    "emotional_intensity": "moderate",
+    "key_moments": [
+      {
+        "timestamp": "14:25:12",
+        "description": "Customer states willingness to pay more for combined meditation + fitness",
+        "sentiment_shift": "positive_spike",
+        "trigger": "Mention that meditation programmes are in development"
+      }
+    ]
+  },
+  "insights": {
+    "pain_points": [
+      {
+        "category": "content",
+        "description": "Yin yoga catalogue is too small and sessions are too short",
+        "severity": "medium",
+        "verbatim_quote": "you have almost no yin yoga content. like there are maybe 3 yin classes total.",
+        "actionable": true
+      },
+      {
+        "category": "content",
+        "description": "No restorative yoga or yoga nidra content",
+        "severity": "medium",
+        "verbatim_quote": "theres a whole world of slower practice thats just missing from the platform",
+        "actionable": true
+      },
+      {
+        "category": "ux",
+        "description": "Search/tag filters too broad to find specific class attributes",
+        "severity": "medium",
+        "verbatim_quote": "theres no way to filter that specifically. the tags are too broad",
+        "actionable": true
+      }
+    ],
+    "motivations": [
+      {
+        "type": "specific_content",
+        "description": "Deep yoga practitioner, 5x/week",
+        "strength": "strong"
+      },
+      {
+        "type": "convenience",
+        "description": "Wants one app instead of paying separately for fitness + meditation",
+        "strength": "strong"
+      }
+    ],
+    "competitor_mentions": [
+      {
+        "name": "Headspace",
+        "context": "currently_using",
+        "sentiment_vs_us": "neutral",
+        "detail": "Paying $12.99/mo for meditation alongside StreamFit; would cancel Headspace if StreamFit added structured meditation programmes."
+      }
+    ],
+    "feature_requests": [
+      {
+        "feature": "Yin yoga library (45-60 minute classes)",
+        "urgency": "important",
+        "existing_workaround": null
+      },
+      {
+        "feature": "Restorative yoga and yoga nidra content",
+        "urgency": "important",
+        "existing_workaround": null
+      },
+      {
+        "feature": "Structured meditation programmes (e.g. 30-day courses)",
+        "urgency": "important",
+        "existing_workaround": "Using Headspace"
+      },
+      {
+        "feature": "Granular class search (body focus, duration, difficulty, style)",
+        "urgency": "nice_to_have",
+        "existing_workaround": null
+      }
+    ]
+  },
+  "intent": {
+    "primary": "Share positive feedback and request content/UX improvements",
+    "secondary": "Signal willingness to pay more for bundled meditation",
+    "churn_risk": {
+      "level": "low",
+      "factors": [
+        "Active 5x/week user, very happy with core yoga product"
+      ],
+      "save_attempted": false,
+      "save_successful": null
+    },
+    "upsell_opportunity": {
+      "level": "high",
+      "target_plan": "Premium+ / wellness bundle including structured meditation",
+      "signals": [
+        "Explicit statement: would pay $35-40 for combined service",
+        "Currently paying $42.98/mo across StreamFit + Headspace",
+        "Already on Premium since day 1"
+      ]
+    }
+  },
+  "topics": [
+    {"topic": "yoga_content", "relevance": "primary", "sentiment": "positive"},
+    {"topic": "yin_restorative_yoga_gap", "relevance": "primary", "sentiment": "negative"},
+    {"topic": "meditation_programmes", "relevance": "primary", "sentiment": "positive"},
+    {"topic": "search_filtering", "relevance": "secondary", "sentiment": "negative"},
+    {"topic": "trainer_quality", "relevance": "mentioned", "sentiment": "positive"}
+  ],
+  "action_items": [
+    {
+      "action": "Log yin/restorative yoga + yoga nidra as content request",
+      "owner": "product",
+      "priority": "medium",
+      "status": "completed"
+    },
+    {
+      "action": "Log granular search filters as UX request",
+      "owner": "product",
+      "priority": "low",
+      "status": "completed"
+    },
+    {
+      "action": "Tag account for meditation programme beta when launched",
+      "owner": "product",
+      "priority": "medium",
+      "status": "requires_follow_up"
+    }
+  ],
+  "quality_flags": {
+    "interaction_quality": "clean",
+    "extraction_confidence": "high",
+    "requires_human_review": false,
+    "review_reasons": []
+  }
+}
